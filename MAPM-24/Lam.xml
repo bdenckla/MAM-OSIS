@@ -1,8 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" type="book" osisID="Lam">
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
+  <chapter osisID="Lam.1" sID="Lam.1" n="א" />
+  <chapter eID="Lam.1" />
+  <chapter osisID="Lam.2" sID="Lam.2" n="ב" />
+  <chapter eID="Lam.2" />
+  <chapter osisID="Lam.3" sID="Lam.3" n="ג" />
+  <chapter eID="Lam.3" />
+  <chapter osisID="Lam.4" sID="Lam.4" n="ד" />
+  <chapter eID="Lam.4" />
+  <chapter osisID="Lam.5" sID="Lam.5" n="ה" />
+  <chapter eID="Lam.5" />
 </div>

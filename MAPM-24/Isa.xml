@@ -1,69 +1,135 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" type="book" osisID="Isa">
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
+  <chapter osisID="Isa.1" sID="Isa.1" n="א" />
+  <chapter eID="Isa.1" />
+  <chapter osisID="Isa.2" sID="Isa.2" n="ב" />
+  <chapter eID="Isa.2" />
+  <chapter osisID="Isa.3" sID="Isa.3" n="ג" />
+  <chapter eID="Isa.3" />
+  <chapter osisID="Isa.4" sID="Isa.4" n="ד" />
+  <chapter eID="Isa.4" />
+  <chapter osisID="Isa.5" sID="Isa.5" n="ה" />
+  <chapter eID="Isa.5" />
+  <chapter osisID="Isa.6" sID="Isa.6" n="ו" />
+  <chapter eID="Isa.6" />
+  <chapter osisID="Isa.7" sID="Isa.7" n="ז" />
+  <chapter eID="Isa.7" />
+  <chapter osisID="Isa.8" sID="Isa.8" n="ח" />
+  <chapter eID="Isa.8" />
+  <chapter osisID="Isa.9" sID="Isa.9" n="ט" />
+  <chapter eID="Isa.9" />
+  <chapter osisID="Isa.10" sID="Isa.10" n="י" />
+  <chapter eID="Isa.10" />
+  <chapter osisID="Isa.11" sID="Isa.11" n="יא" />
+  <chapter eID="Isa.11" />
+  <chapter osisID="Isa.12" sID="Isa.12" n="יב" />
+  <chapter eID="Isa.12" />
+  <chapter osisID="Isa.13" sID="Isa.13" n="יג" />
+  <chapter eID="Isa.13" />
+  <chapter osisID="Isa.14" sID="Isa.14" n="יד" />
+  <chapter eID="Isa.14" />
+  <chapter osisID="Isa.15" sID="Isa.15" n="טו" />
+  <chapter eID="Isa.15" />
+  <chapter osisID="Isa.16" sID="Isa.16" n="טז" />
+  <chapter eID="Isa.16" />
+  <chapter osisID="Isa.17" sID="Isa.17" n="יז" />
+  <chapter eID="Isa.17" />
+  <chapter osisID="Isa.18" sID="Isa.18" n="יח" />
+  <chapter eID="Isa.18" />
+  <chapter osisID="Isa.19" sID="Isa.19" n="יט" />
+  <chapter eID="Isa.19" />
+  <chapter osisID="Isa.20" sID="Isa.20" n="כ" />
+  <chapter eID="Isa.20" />
+  <chapter osisID="Isa.21" sID="Isa.21" n="כא" />
+  <chapter eID="Isa.21" />
+  <chapter osisID="Isa.22" sID="Isa.22" n="כב" />
+  <chapter eID="Isa.22" />
+  <chapter osisID="Isa.23" sID="Isa.23" n="כג" />
+  <chapter eID="Isa.23" />
+  <chapter osisID="Isa.24" sID="Isa.24" n="כד" />
+  <chapter eID="Isa.24" />
+  <chapter osisID="Isa.25" sID="Isa.25" n="כה" />
+  <chapter eID="Isa.25" />
+  <chapter osisID="Isa.26" sID="Isa.26" n="כו" />
+  <chapter eID="Isa.26" />
+  <chapter osisID="Isa.27" sID="Isa.27" n="כז" />
+  <chapter eID="Isa.27" />
+  <chapter osisID="Isa.28" sID="Isa.28" n="כח" />
+  <chapter eID="Isa.28" />
+  <chapter osisID="Isa.29" sID="Isa.29" n="כט" />
+  <chapter eID="Isa.29" />
+  <chapter osisID="Isa.30" sID="Isa.30" n="ל" />
+  <chapter eID="Isa.30" />
+  <chapter osisID="Isa.31" sID="Isa.31" n="לא" />
+  <chapter eID="Isa.31" />
+  <chapter osisID="Isa.32" sID="Isa.32" n="לב" />
+  <chapter eID="Isa.32" />
+  <chapter osisID="Isa.33" sID="Isa.33" n="לג" />
+  <chapter eID="Isa.33" />
+  <chapter osisID="Isa.34" sID="Isa.34" n="לד" />
+  <chapter eID="Isa.34" />
+  <chapter osisID="Isa.35" sID="Isa.35" n="לה" />
+  <chapter eID="Isa.35" />
+  <chapter osisID="Isa.36" sID="Isa.36" n="לו" />
+  <chapter eID="Isa.36" />
+  <chapter osisID="Isa.37" sID="Isa.37" n="לז" />
+  <chapter eID="Isa.37" />
+  <chapter osisID="Isa.38" sID="Isa.38" n="לח" />
+  <chapter eID="Isa.38" />
+  <chapter osisID="Isa.39" sID="Isa.39" n="לט" />
+  <chapter eID="Isa.39" />
+  <chapter osisID="Isa.40" sID="Isa.40" n="מ" />
+  <chapter eID="Isa.40" />
+  <chapter osisID="Isa.41" sID="Isa.41" n="מא" />
+  <chapter eID="Isa.41" />
+  <chapter osisID="Isa.42" sID="Isa.42" n="מב" />
+  <chapter eID="Isa.42" />
+  <chapter osisID="Isa.43" sID="Isa.43" n="מג" />
+  <chapter eID="Isa.43" />
+  <chapter osisID="Isa.44" sID="Isa.44" n="מד" />
+  <chapter eID="Isa.44" />
+  <chapter osisID="Isa.45" sID="Isa.45" n="מה" />
+  <chapter eID="Isa.45" />
+  <chapter osisID="Isa.46" sID="Isa.46" n="מו" />
+  <chapter eID="Isa.46" />
+  <chapter osisID="Isa.47" sID="Isa.47" n="מז" />
+  <chapter eID="Isa.47" />
+  <chapter osisID="Isa.48" sID="Isa.48" n="מח" />
+  <chapter eID="Isa.48" />
+  <chapter osisID="Isa.49" sID="Isa.49" n="מט" />
+  <chapter eID="Isa.49" />
+  <chapter osisID="Isa.50" sID="Isa.50" n="נ" />
+  <chapter eID="Isa.50" />
+  <chapter osisID="Isa.51" sID="Isa.51" n="נא" />
+  <chapter eID="Isa.51" />
+  <chapter osisID="Isa.52" sID="Isa.52" n="נב" />
+  <chapter eID="Isa.52" />
+  <chapter osisID="Isa.53" sID="Isa.53" n="נג" />
+  <chapter eID="Isa.53" />
+  <chapter osisID="Isa.54" sID="Isa.54" n="נד" />
+  <chapter eID="Isa.54" />
+  <chapter osisID="Isa.55" sID="Isa.55" n="נה" />
+  <chapter eID="Isa.55" />
+  <chapter osisID="Isa.56" sID="Isa.56" n="נו" />
+  <chapter eID="Isa.56" />
+  <chapter osisID="Isa.57" sID="Isa.57" n="נז" />
+  <chapter eID="Isa.57" />
+  <chapter osisID="Isa.58" sID="Isa.58" n="נח" />
+  <chapter eID="Isa.58" />
+  <chapter osisID="Isa.59" sID="Isa.59" n="נט" />
+  <chapter eID="Isa.59" />
+  <chapter osisID="Isa.60" sID="Isa.60" n="ס" />
+  <chapter eID="Isa.60" />
+  <chapter osisID="Isa.61" sID="Isa.61" n="סא" />
+  <chapter eID="Isa.61" />
+  <chapter osisID="Isa.62" sID="Isa.62" n="סב" />
+  <chapter eID="Isa.62" />
+  <chapter osisID="Isa.63" sID="Isa.63" n="סג" />
+  <chapter eID="Isa.63" />
+  <chapter osisID="Isa.64" sID="Isa.64" n="סד" />
+  <chapter eID="Isa.64" />
+  <chapter osisID="Isa.65" sID="Isa.65" n="סה" />
+  <chapter eID="Isa.65" />
+  <chapter osisID="Isa.66" sID="Isa.66" n="סו" />
+  <chapter eID="Isa.66" />
 </div>

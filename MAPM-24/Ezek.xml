@@ -1,51 +1,99 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" type="book" osisID="Ezek">
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
+  <chapter osisID="Ezek.1" sID="Ezek.1" n="א" />
+  <chapter eID="Ezek.1" />
+  <chapter osisID="Ezek.2" sID="Ezek.2" n="ב" />
+  <chapter eID="Ezek.2" />
+  <chapter osisID="Ezek.3" sID="Ezek.3" n="ג" />
+  <chapter eID="Ezek.3" />
+  <chapter osisID="Ezek.4" sID="Ezek.4" n="ד" />
+  <chapter eID="Ezek.4" />
+  <chapter osisID="Ezek.5" sID="Ezek.5" n="ה" />
+  <chapter eID="Ezek.5" />
+  <chapter osisID="Ezek.6" sID="Ezek.6" n="ו" />
+  <chapter eID="Ezek.6" />
+  <chapter osisID="Ezek.7" sID="Ezek.7" n="ז" />
+  <chapter eID="Ezek.7" />
+  <chapter osisID="Ezek.8" sID="Ezek.8" n="ח" />
+  <chapter eID="Ezek.8" />
+  <chapter osisID="Ezek.9" sID="Ezek.9" n="ט" />
+  <chapter eID="Ezek.9" />
+  <chapter osisID="Ezek.10" sID="Ezek.10" n="י" />
+  <chapter eID="Ezek.10" />
+  <chapter osisID="Ezek.11" sID="Ezek.11" n="יא" />
+  <chapter eID="Ezek.11" />
+  <chapter osisID="Ezek.12" sID="Ezek.12" n="יב" />
+  <chapter eID="Ezek.12" />
+  <chapter osisID="Ezek.13" sID="Ezek.13" n="יג" />
+  <chapter eID="Ezek.13" />
+  <chapter osisID="Ezek.14" sID="Ezek.14" n="יד" />
+  <chapter eID="Ezek.14" />
+  <chapter osisID="Ezek.15" sID="Ezek.15" n="טו" />
+  <chapter eID="Ezek.15" />
+  <chapter osisID="Ezek.16" sID="Ezek.16" n="טז" />
+  <chapter eID="Ezek.16" />
+  <chapter osisID="Ezek.17" sID="Ezek.17" n="יז" />
+  <chapter eID="Ezek.17" />
+  <chapter osisID="Ezek.18" sID="Ezek.18" n="יח" />
+  <chapter eID="Ezek.18" />
+  <chapter osisID="Ezek.19" sID="Ezek.19" n="יט" />
+  <chapter eID="Ezek.19" />
+  <chapter osisID="Ezek.20" sID="Ezek.20" n="כ" />
+  <chapter eID="Ezek.20" />
+  <chapter osisID="Ezek.21" sID="Ezek.21" n="כא" />
+  <chapter eID="Ezek.21" />
+  <chapter osisID="Ezek.22" sID="Ezek.22" n="כב" />
+  <chapter eID="Ezek.22" />
+  <chapter osisID="Ezek.23" sID="Ezek.23" n="כג" />
+  <chapter eID="Ezek.23" />
+  <chapter osisID="Ezek.24" sID="Ezek.24" n="כד" />
+  <chapter eID="Ezek.24" />
+  <chapter osisID="Ezek.25" sID="Ezek.25" n="כה" />
+  <chapter eID="Ezek.25" />
+  <chapter osisID="Ezek.26" sID="Ezek.26" n="כו" />
+  <chapter eID="Ezek.26" />
+  <chapter osisID="Ezek.27" sID="Ezek.27" n="כז" />
+  <chapter eID="Ezek.27" />
+  <chapter osisID="Ezek.28" sID="Ezek.28" n="כח" />
+  <chapter eID="Ezek.28" />
+  <chapter osisID="Ezek.29" sID="Ezek.29" n="כט" />
+  <chapter eID="Ezek.29" />
+  <chapter osisID="Ezek.30" sID="Ezek.30" n="ל" />
+  <chapter eID="Ezek.30" />
+  <chapter osisID="Ezek.31" sID="Ezek.31" n="לא" />
+  <chapter eID="Ezek.31" />
+  <chapter osisID="Ezek.32" sID="Ezek.32" n="לב" />
+  <chapter eID="Ezek.32" />
+  <chapter osisID="Ezek.33" sID="Ezek.33" n="לג" />
+  <chapter eID="Ezek.33" />
+  <chapter osisID="Ezek.34" sID="Ezek.34" n="לד" />
+  <chapter eID="Ezek.34" />
+  <chapter osisID="Ezek.35" sID="Ezek.35" n="לה" />
+  <chapter eID="Ezek.35" />
+  <chapter osisID="Ezek.36" sID="Ezek.36" n="לו" />
+  <chapter eID="Ezek.36" />
+  <chapter osisID="Ezek.37" sID="Ezek.37" n="לז" />
+  <chapter eID="Ezek.37" />
+  <chapter osisID="Ezek.38" sID="Ezek.38" n="לח" />
+  <chapter eID="Ezek.38" />
+  <chapter osisID="Ezek.39" sID="Ezek.39" n="לט" />
+  <chapter eID="Ezek.39" />
+  <chapter osisID="Ezek.40" sID="Ezek.40" n="מ" />
+  <chapter eID="Ezek.40" />
+  <chapter osisID="Ezek.41" sID="Ezek.41" n="מא" />
+  <chapter eID="Ezek.41" />
+  <chapter osisID="Ezek.42" sID="Ezek.42" n="מב" />
+  <chapter eID="Ezek.42" />
+  <chapter osisID="Ezek.43" sID="Ezek.43" n="מג" />
+  <chapter eID="Ezek.43" />
+  <chapter osisID="Ezek.44" sID="Ezek.44" n="מד" />
+  <chapter eID="Ezek.44" />
+  <chapter osisID="Ezek.45" sID="Ezek.45" n="מה" />
+  <chapter eID="Ezek.45" />
+  <chapter osisID="Ezek.46" sID="Ezek.46" n="מו" />
+  <chapter eID="Ezek.46" />
+  <chapter osisID="Ezek.47" sID="Ezek.47" n="מז" />
+  <chapter eID="Ezek.47" />
+  <chapter osisID="Ezek.48" sID="Ezek.48" n="מח" />
+  <chapter eID="Ezek.48" />
 </div>

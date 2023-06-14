@@ -1,7 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" type="book" osisID="Ruth">
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
+  <chapter osisID="Ruth.1" sID="Ruth.1" n="א" />
+  <chapter eID="Ruth.1" />
+  <chapter osisID="Ruth.2" sID="Ruth.2" n="ב" />
+  <chapter eID="Ruth.2" />
+  <chapter osisID="Ruth.3" sID="Ruth.3" n="ג" />
+  <chapter eID="Ruth.3" />
+  <chapter osisID="Ruth.4" sID="Ruth.4" n="ד" />
+  <chapter eID="Ruth.4" />
 </div>

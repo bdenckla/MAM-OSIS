@@ -1,11 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" type="book" osisID="Song">
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
+  <chapter osisID="Song.1" sID="Song.1" n="א" />
+  <chapter eID="Song.1" />
+  <chapter osisID="Song.2" sID="Song.2" n="ב" />
+  <chapter eID="Song.2" />
+  <chapter osisID="Song.3" sID="Song.3" n="ג" />
+  <chapter eID="Song.3" />
+  <chapter osisID="Song.4" sID="Song.4" n="ד" />
+  <chapter eID="Song.4" />
+  <chapter osisID="Song.5" sID="Song.5" n="ה" />
+  <chapter eID="Song.5" />
+  <chapter osisID="Song.6" sID="Song.6" n="ו" />
+  <chapter eID="Song.6" />
+  <chapter osisID="Song.7" sID="Song.7" n="ז" />
+  <chapter eID="Song.7" />
+  <chapter osisID="Song.8" sID="Song.8" n="ח" />
+  <chapter eID="Song.8" />
 </div>

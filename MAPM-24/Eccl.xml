@@ -1,15 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" type="book" osisID="Eccl">
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
+  <chapter osisID="Eccl.1" sID="Eccl.1" n="א" />
+  <chapter eID="Eccl.1" />
+  <chapter osisID="Eccl.2" sID="Eccl.2" n="ב" />
+  <chapter eID="Eccl.2" />
+  <chapter osisID="Eccl.3" sID="Eccl.3" n="ג" />
+  <chapter eID="Eccl.3" />
+  <chapter osisID="Eccl.4" sID="Eccl.4" n="ד" />
+  <chapter eID="Eccl.4" />
+  <chapter osisID="Eccl.5" sID="Eccl.5" n="ה" />
+  <chapter eID="Eccl.5" />
+  <chapter osisID="Eccl.6" sID="Eccl.6" n="ו" />
+  <chapter eID="Eccl.6" />
+  <chapter osisID="Eccl.7" sID="Eccl.7" n="ז" />
+  <chapter eID="Eccl.7" />
+  <chapter osisID="Eccl.8" sID="Eccl.8" n="ח" />
+  <chapter eID="Eccl.8" />
+  <chapter osisID="Eccl.9" sID="Eccl.9" n="ט" />
+  <chapter eID="Eccl.9" />
+  <chapter osisID="Eccl.10" sID="Eccl.10" n="י" />
+  <chapter eID="Eccl.10" />
+  <chapter osisID="Eccl.11" sID="Eccl.11" n="יא" />
+  <chapter eID="Eccl.11" />
+  <chapter osisID="Eccl.12" sID="Eccl.12" n="יב" />
+  <chapter eID="Eccl.12" />
 </div>

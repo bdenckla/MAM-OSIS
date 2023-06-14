@@ -1,39 +1,75 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" type="book" osisID="Num">
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
+  <chapter osisID="Num.1" sID="Num.1" n="א" />
+  <chapter eID="Num.1" />
+  <chapter osisID="Num.2" sID="Num.2" n="ב" />
+  <chapter eID="Num.2" />
+  <chapter osisID="Num.3" sID="Num.3" n="ג" />
+  <chapter eID="Num.3" />
+  <chapter osisID="Num.4" sID="Num.4" n="ד" />
+  <chapter eID="Num.4" />
+  <chapter osisID="Num.5" sID="Num.5" n="ה" />
+  <chapter eID="Num.5" />
+  <chapter osisID="Num.6" sID="Num.6" n="ו" />
+  <chapter eID="Num.6" />
+  <chapter osisID="Num.7" sID="Num.7" n="ז" />
+  <chapter eID="Num.7" />
+  <chapter osisID="Num.8" sID="Num.8" n="ח" />
+  <chapter eID="Num.8" />
+  <chapter osisID="Num.9" sID="Num.9" n="ט" />
+  <chapter eID="Num.9" />
+  <chapter osisID="Num.10" sID="Num.10" n="י" />
+  <chapter eID="Num.10" />
+  <chapter osisID="Num.11" sID="Num.11" n="יא" />
+  <chapter eID="Num.11" />
+  <chapter osisID="Num.12" sID="Num.12" n="יב" />
+  <chapter eID="Num.12" />
+  <chapter osisID="Num.13" sID="Num.13" n="יג" />
+  <chapter eID="Num.13" />
+  <chapter osisID="Num.14" sID="Num.14" n="יד" />
+  <chapter eID="Num.14" />
+  <chapter osisID="Num.15" sID="Num.15" n="טו" />
+  <chapter eID="Num.15" />
+  <chapter osisID="Num.16" sID="Num.16" n="טז" />
+  <chapter eID="Num.16" />
+  <chapter osisID="Num.17" sID="Num.17" n="יז" />
+  <chapter eID="Num.17" />
+  <chapter osisID="Num.18" sID="Num.18" n="יח" />
+  <chapter eID="Num.18" />
+  <chapter osisID="Num.19" sID="Num.19" n="יט" />
+  <chapter eID="Num.19" />
+  <chapter osisID="Num.20" sID="Num.20" n="כ" />
+  <chapter eID="Num.20" />
+  <chapter osisID="Num.21" sID="Num.21" n="כא" />
+  <chapter eID="Num.21" />
+  <chapter osisID="Num.22" sID="Num.22" n="כב" />
+  <chapter eID="Num.22" />
+  <chapter osisID="Num.23" sID="Num.23" n="כג" />
+  <chapter eID="Num.23" />
+  <chapter osisID="Num.24" sID="Num.24" n="כד" />
+  <chapter eID="Num.24" />
+  <chapter osisID="Num.25" sID="Num.25" n="כה" />
+  <chapter eID="Num.25" />
+  <chapter osisID="Num.26" sID="Num.26" n="כו" />
+  <chapter eID="Num.26" />
+  <chapter osisID="Num.27" sID="Num.27" n="כז" />
+  <chapter eID="Num.27" />
+  <chapter osisID="Num.28" sID="Num.28" n="כח" />
+  <chapter eID="Num.28" />
+  <chapter osisID="Num.29" sID="Num.29" n="כט" />
+  <chapter eID="Num.29" />
+  <chapter osisID="Num.30" sID="Num.30" n="ל" />
+  <chapter eID="Num.30" />
+  <chapter osisID="Num.31" sID="Num.31" n="לא" />
+  <chapter eID="Num.31" />
+  <chapter osisID="Num.32" sID="Num.32" n="לב" />
+  <chapter eID="Num.32" />
+  <chapter osisID="Num.33" sID="Num.33" n="לג" />
+  <chapter eID="Num.33" />
+  <chapter osisID="Num.34" sID="Num.34" n="לד" />
+  <chapter eID="Num.34" />
+  <chapter osisID="Num.35" sID="Num.35" n="לה" />
+  <chapter eID="Num.35" />
+  <chapter osisID="Num.36" sID="Num.36" n="לו" />
+  <chapter eID="Num.36" />
 </div>

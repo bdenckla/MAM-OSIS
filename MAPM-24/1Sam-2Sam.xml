@@ -1,62 +1,117 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" type="bookGroup" scope="1Sam-2Sam">
   <div type="book" osisID="1Sam">
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
+    <chapter osisID="1Sam.1" sID="1Sam.1" n="א" />
+    <chapter eID="1Sam.1" />
+    <chapter osisID="1Sam.2" sID="1Sam.2" n="ב" />
+    <chapter eID="1Sam.2" />
+    <chapter osisID="1Sam.3" sID="1Sam.3" n="ג" />
+    <chapter eID="1Sam.3" />
+    <chapter osisID="1Sam.4" sID="1Sam.4" n="ד" />
+    <chapter eID="1Sam.4" />
+    <chapter osisID="1Sam.5" sID="1Sam.5" n="ה" />
+    <chapter eID="1Sam.5" />
+    <chapter osisID="1Sam.6" sID="1Sam.6" n="ו" />
+    <chapter eID="1Sam.6" />
+    <chapter osisID="1Sam.7" sID="1Sam.7" n="ז" />
+    <chapter eID="1Sam.7" />
+    <chapter osisID="1Sam.8" sID="1Sam.8" n="ח" />
+    <chapter eID="1Sam.8" />
+    <chapter osisID="1Sam.9" sID="1Sam.9" n="ט" />
+    <chapter eID="1Sam.9" />
+    <chapter osisID="1Sam.10" sID="1Sam.10" n="י" />
+    <chapter eID="1Sam.10" />
+    <chapter osisID="1Sam.11" sID="1Sam.11" n="יא" />
+    <chapter eID="1Sam.11" />
+    <chapter osisID="1Sam.12" sID="1Sam.12" n="יב" />
+    <chapter eID="1Sam.12" />
+    <chapter osisID="1Sam.13" sID="1Sam.13" n="יג" />
+    <chapter eID="1Sam.13" />
+    <chapter osisID="1Sam.14" sID="1Sam.14" n="יד" />
+    <chapter eID="1Sam.14" />
+    <chapter osisID="1Sam.15" sID="1Sam.15" n="טו" />
+    <chapter eID="1Sam.15" />
+    <chapter osisID="1Sam.16" sID="1Sam.16" n="טז" />
+    <chapter eID="1Sam.16" />
+    <chapter osisID="1Sam.17" sID="1Sam.17" n="יז" />
+    <chapter eID="1Sam.17" />
+    <chapter osisID="1Sam.18" sID="1Sam.18" n="יח" />
+    <chapter eID="1Sam.18" />
+    <chapter osisID="1Sam.19" sID="1Sam.19" n="יט" />
+    <chapter eID="1Sam.19" />
+    <chapter osisID="1Sam.20" sID="1Sam.20" n="כ" />
+    <chapter eID="1Sam.20" />
+    <chapter osisID="1Sam.21" sID="1Sam.21" n="כא" />
+    <chapter eID="1Sam.21" />
+    <chapter osisID="1Sam.22" sID="1Sam.22" n="כב" />
+    <chapter eID="1Sam.22" />
+    <chapter osisID="1Sam.23" sID="1Sam.23" n="כג" />
+    <chapter eID="1Sam.23" />
+    <chapter osisID="1Sam.24" sID="1Sam.24" n="כד" />
+    <chapter eID="1Sam.24" />
+    <chapter osisID="1Sam.25" sID="1Sam.25" n="כה" />
+    <chapter eID="1Sam.25" />
+    <chapter osisID="1Sam.26" sID="1Sam.26" n="כו" />
+    <chapter eID="1Sam.26" />
+    <chapter osisID="1Sam.27" sID="1Sam.27" n="כז" />
+    <chapter eID="1Sam.27" />
+    <chapter osisID="1Sam.28" sID="1Sam.28" n="כח" />
+    <chapter eID="1Sam.28" />
+    <chapter osisID="1Sam.29" sID="1Sam.29" n="כט" />
+    <chapter eID="1Sam.29" />
+    <chapter osisID="1Sam.30" sID="1Sam.30" n="ל" />
+    <chapter eID="1Sam.30" />
+    <chapter osisID="1Sam.31" sID="1Sam.31" n="לא" />
+    <chapter eID="1Sam.31" />
   </div>
   <div type="book" osisID="2Sam">
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
+    <chapter osisID="2Sam.1" sID="2Sam.1" n="א" />
+    <chapter eID="2Sam.1" />
+    <chapter osisID="2Sam.2" sID="2Sam.2" n="ב" />
+    <chapter eID="2Sam.2" />
+    <chapter osisID="2Sam.3" sID="2Sam.3" n="ג" />
+    <chapter eID="2Sam.3" />
+    <chapter osisID="2Sam.4" sID="2Sam.4" n="ד" />
+    <chapter eID="2Sam.4" />
+    <chapter osisID="2Sam.5" sID="2Sam.5" n="ה" />
+    <chapter eID="2Sam.5" />
+    <chapter osisID="2Sam.6" sID="2Sam.6" n="ו" />
+    <chapter eID="2Sam.6" />
+    <chapter osisID="2Sam.7" sID="2Sam.7" n="ז" />
+    <chapter eID="2Sam.7" />
+    <chapter osisID="2Sam.8" sID="2Sam.8" n="ח" />
+    <chapter eID="2Sam.8" />
+    <chapter osisID="2Sam.9" sID="2Sam.9" n="ט" />
+    <chapter eID="2Sam.9" />
+    <chapter osisID="2Sam.10" sID="2Sam.10" n="י" />
+    <chapter eID="2Sam.10" />
+    <chapter osisID="2Sam.11" sID="2Sam.11" n="יא" />
+    <chapter eID="2Sam.11" />
+    <chapter osisID="2Sam.12" sID="2Sam.12" n="יב" />
+    <chapter eID="2Sam.12" />
+    <chapter osisID="2Sam.13" sID="2Sam.13" n="יג" />
+    <chapter eID="2Sam.13" />
+    <chapter osisID="2Sam.14" sID="2Sam.14" n="יד" />
+    <chapter eID="2Sam.14" />
+    <chapter osisID="2Sam.15" sID="2Sam.15" n="טו" />
+    <chapter eID="2Sam.15" />
+    <chapter osisID="2Sam.16" sID="2Sam.16" n="טז" />
+    <chapter eID="2Sam.16" />
+    <chapter osisID="2Sam.17" sID="2Sam.17" n="יז" />
+    <chapter eID="2Sam.17" />
+    <chapter osisID="2Sam.18" sID="2Sam.18" n="יח" />
+    <chapter eID="2Sam.18" />
+    <chapter osisID="2Sam.19" sID="2Sam.19" n="יט" />
+    <chapter eID="2Sam.19" />
+    <chapter osisID="2Sam.20" sID="2Sam.20" n="כ" />
+    <chapter eID="2Sam.20" />
+    <chapter osisID="2Sam.21" sID="2Sam.21" n="כא" />
+    <chapter eID="2Sam.21" />
+    <chapter osisID="2Sam.22" sID="2Sam.22" n="כב" />
+    <chapter eID="2Sam.22" />
+    <chapter osisID="2Sam.23" sID="2Sam.23" n="כג" />
+    <chapter eID="2Sam.23" />
+    <chapter osisID="2Sam.24" sID="2Sam.24" n="כד" />
+    <chapter eID="2Sam.24" />
   </div>
 </div>

@@ -1,55 +1,107 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" type="book" osisID="Jer">
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
+  <chapter osisID="Jer.1" sID="Jer.1" n="א" />
+  <chapter eID="Jer.1" />
+  <chapter osisID="Jer.2" sID="Jer.2" n="ב" />
+  <chapter eID="Jer.2" />
+  <chapter osisID="Jer.3" sID="Jer.3" n="ג" />
+  <chapter eID="Jer.3" />
+  <chapter osisID="Jer.4" sID="Jer.4" n="ד" />
+  <chapter eID="Jer.4" />
+  <chapter osisID="Jer.5" sID="Jer.5" n="ה" />
+  <chapter eID="Jer.5" />
+  <chapter osisID="Jer.6" sID="Jer.6" n="ו" />
+  <chapter eID="Jer.6" />
+  <chapter osisID="Jer.7" sID="Jer.7" n="ז" />
+  <chapter eID="Jer.7" />
+  <chapter osisID="Jer.8" sID="Jer.8" n="ח" />
+  <chapter eID="Jer.8" />
+  <chapter osisID="Jer.9" sID="Jer.9" n="ט" />
+  <chapter eID="Jer.9" />
+  <chapter osisID="Jer.10" sID="Jer.10" n="י" />
+  <chapter eID="Jer.10" />
+  <chapter osisID="Jer.11" sID="Jer.11" n="יא" />
+  <chapter eID="Jer.11" />
+  <chapter osisID="Jer.12" sID="Jer.12" n="יב" />
+  <chapter eID="Jer.12" />
+  <chapter osisID="Jer.13" sID="Jer.13" n="יג" />
+  <chapter eID="Jer.13" />
+  <chapter osisID="Jer.14" sID="Jer.14" n="יד" />
+  <chapter eID="Jer.14" />
+  <chapter osisID="Jer.15" sID="Jer.15" n="טו" />
+  <chapter eID="Jer.15" />
+  <chapter osisID="Jer.16" sID="Jer.16" n="טז" />
+  <chapter eID="Jer.16" />
+  <chapter osisID="Jer.17" sID="Jer.17" n="יז" />
+  <chapter eID="Jer.17" />
+  <chapter osisID="Jer.18" sID="Jer.18" n="יח" />
+  <chapter eID="Jer.18" />
+  <chapter osisID="Jer.19" sID="Jer.19" n="יט" />
+  <chapter eID="Jer.19" />
+  <chapter osisID="Jer.20" sID="Jer.20" n="כ" />
+  <chapter eID="Jer.20" />
+  <chapter osisID="Jer.21" sID="Jer.21" n="כא" />
+  <chapter eID="Jer.21" />
+  <chapter osisID="Jer.22" sID="Jer.22" n="כב" />
+  <chapter eID="Jer.22" />
+  <chapter osisID="Jer.23" sID="Jer.23" n="כג" />
+  <chapter eID="Jer.23" />
+  <chapter osisID="Jer.24" sID="Jer.24" n="כד" />
+  <chapter eID="Jer.24" />
+  <chapter osisID="Jer.25" sID="Jer.25" n="כה" />
+  <chapter eID="Jer.25" />
+  <chapter osisID="Jer.26" sID="Jer.26" n="כו" />
+  <chapter eID="Jer.26" />
+  <chapter osisID="Jer.27" sID="Jer.27" n="כז" />
+  <chapter eID="Jer.27" />
+  <chapter osisID="Jer.28" sID="Jer.28" n="כח" />
+  <chapter eID="Jer.28" />
+  <chapter osisID="Jer.29" sID="Jer.29" n="כט" />
+  <chapter eID="Jer.29" />
+  <chapter osisID="Jer.30" sID="Jer.30" n="ל" />
+  <chapter eID="Jer.30" />
+  <chapter osisID="Jer.31" sID="Jer.31" n="לא" />
+  <chapter eID="Jer.31" />
+  <chapter osisID="Jer.32" sID="Jer.32" n="לב" />
+  <chapter eID="Jer.32" />
+  <chapter osisID="Jer.33" sID="Jer.33" n="לג" />
+  <chapter eID="Jer.33" />
+  <chapter osisID="Jer.34" sID="Jer.34" n="לד" />
+  <chapter eID="Jer.34" />
+  <chapter osisID="Jer.35" sID="Jer.35" n="לה" />
+  <chapter eID="Jer.35" />
+  <chapter osisID="Jer.36" sID="Jer.36" n="לו" />
+  <chapter eID="Jer.36" />
+  <chapter osisID="Jer.37" sID="Jer.37" n="לז" />
+  <chapter eID="Jer.37" />
+  <chapter osisID="Jer.38" sID="Jer.38" n="לח" />
+  <chapter eID="Jer.38" />
+  <chapter osisID="Jer.39" sID="Jer.39" n="לט" />
+  <chapter eID="Jer.39" />
+  <chapter osisID="Jer.40" sID="Jer.40" n="מ" />
+  <chapter eID="Jer.40" />
+  <chapter osisID="Jer.41" sID="Jer.41" n="מא" />
+  <chapter eID="Jer.41" />
+  <chapter osisID="Jer.42" sID="Jer.42" n="מב" />
+  <chapter eID="Jer.42" />
+  <chapter osisID="Jer.43" sID="Jer.43" n="מג" />
+  <chapter eID="Jer.43" />
+  <chapter osisID="Jer.44" sID="Jer.44" n="מד" />
+  <chapter eID="Jer.44" />
+  <chapter osisID="Jer.45" sID="Jer.45" n="מה" />
+  <chapter eID="Jer.45" />
+  <chapter osisID="Jer.46" sID="Jer.46" n="מו" />
+  <chapter eID="Jer.46" />
+  <chapter osisID="Jer.47" sID="Jer.47" n="מז" />
+  <chapter eID="Jer.47" />
+  <chapter osisID="Jer.48" sID="Jer.48" n="מח" />
+  <chapter eID="Jer.48" />
+  <chapter osisID="Jer.49" sID="Jer.49" n="מט" />
+  <chapter eID="Jer.49" />
+  <chapter osisID="Jer.50" sID="Jer.50" n="נ" />
+  <chapter eID="Jer.50" />
+  <chapter osisID="Jer.51" sID="Jer.51" n="נא" />
+  <chapter eID="Jer.51" />
+  <chapter osisID="Jer.52" sID="Jer.52" n="נב" />
+  <chapter eID="Jer.52" />
 </div>

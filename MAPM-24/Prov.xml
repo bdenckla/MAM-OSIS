@@ -1,34 +1,65 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" type="book" osisID="Prov">
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
+  <chapter osisID="Prov.1" sID="Prov.1" n="א" />
+  <chapter eID="Prov.1" />
+  <chapter osisID="Prov.2" sID="Prov.2" n="ב" />
+  <chapter eID="Prov.2" />
+  <chapter osisID="Prov.3" sID="Prov.3" n="ג" />
+  <chapter eID="Prov.3" />
+  <chapter osisID="Prov.4" sID="Prov.4" n="ד" />
+  <chapter eID="Prov.4" />
+  <chapter osisID="Prov.5" sID="Prov.5" n="ה" />
+  <chapter eID="Prov.5" />
+  <chapter osisID="Prov.6" sID="Prov.6" n="ו" />
+  <chapter eID="Prov.6" />
+  <chapter osisID="Prov.7" sID="Prov.7" n="ז" />
+  <chapter eID="Prov.7" />
+  <chapter osisID="Prov.8" sID="Prov.8" n="ח" />
+  <chapter eID="Prov.8" />
+  <chapter osisID="Prov.9" sID="Prov.9" n="ט" />
+  <chapter eID="Prov.9" />
+  <chapter osisID="Prov.10" sID="Prov.10" n="י" />
+  <chapter eID="Prov.10" />
+  <chapter osisID="Prov.11" sID="Prov.11" n="יא" />
+  <chapter eID="Prov.11" />
+  <chapter osisID="Prov.12" sID="Prov.12" n="יב" />
+  <chapter eID="Prov.12" />
+  <chapter osisID="Prov.13" sID="Prov.13" n="יג" />
+  <chapter eID="Prov.13" />
+  <chapter osisID="Prov.14" sID="Prov.14" n="יד" />
+  <chapter eID="Prov.14" />
+  <chapter osisID="Prov.15" sID="Prov.15" n="טו" />
+  <chapter eID="Prov.15" />
+  <chapter osisID="Prov.16" sID="Prov.16" n="טז" />
+  <chapter eID="Prov.16" />
+  <chapter osisID="Prov.17" sID="Prov.17" n="יז" />
+  <chapter eID="Prov.17" />
+  <chapter osisID="Prov.18" sID="Prov.18" n="יח" />
+  <chapter eID="Prov.18" />
+  <chapter osisID="Prov.19" sID="Prov.19" n="יט" />
+  <chapter eID="Prov.19" />
+  <chapter osisID="Prov.20" sID="Prov.20" n="כ" />
+  <chapter eID="Prov.20" />
+  <chapter osisID="Prov.21" sID="Prov.21" n="כא" />
+  <chapter eID="Prov.21" />
+  <chapter osisID="Prov.22" sID="Prov.22" n="כב" />
+  <chapter eID="Prov.22" />
+  <chapter osisID="Prov.23" sID="Prov.23" n="כג" />
+  <chapter eID="Prov.23" />
+  <chapter osisID="Prov.24" sID="Prov.24" n="כד" />
+  <chapter eID="Prov.24" />
+  <chapter osisID="Prov.25" sID="Prov.25" n="כה" />
+  <chapter eID="Prov.25" />
+  <chapter osisID="Prov.26" sID="Prov.26" n="כו" />
+  <chapter eID="Prov.26" />
+  <chapter osisID="Prov.27" sID="Prov.27" n="כז" />
+  <chapter eID="Prov.27" />
+  <chapter osisID="Prov.28" sID="Prov.28" n="כח" />
+  <chapter eID="Prov.28" />
+  <chapter osisID="Prov.29" sID="Prov.29" n="כט" />
+  <chapter eID="Prov.29" />
+  <chapter osisID="Prov.30" sID="Prov.30" n="ל" />
+  <chapter eID="Prov.30" />
+  <chapter osisID="Prov.31" sID="Prov.31" n="לא" />
+  <chapter eID="Prov.31" />
 </div>

@@ -1,27 +1,51 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" type="book" osisID="Josh">
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
+  <chapter osisID="Josh.1" sID="Josh.1" n="א" />
+  <chapter eID="Josh.1" />
+  <chapter osisID="Josh.2" sID="Josh.2" n="ב" />
+  <chapter eID="Josh.2" />
+  <chapter osisID="Josh.3" sID="Josh.3" n="ג" />
+  <chapter eID="Josh.3" />
+  <chapter osisID="Josh.4" sID="Josh.4" n="ד" />
+  <chapter eID="Josh.4" />
+  <chapter osisID="Josh.5" sID="Josh.5" n="ה" />
+  <chapter eID="Josh.5" />
+  <chapter osisID="Josh.6" sID="Josh.6" n="ו" />
+  <chapter eID="Josh.6" />
+  <chapter osisID="Josh.7" sID="Josh.7" n="ז" />
+  <chapter eID="Josh.7" />
+  <chapter osisID="Josh.8" sID="Josh.8" n="ח" />
+  <chapter eID="Josh.8" />
+  <chapter osisID="Josh.9" sID="Josh.9" n="ט" />
+  <chapter eID="Josh.9" />
+  <chapter osisID="Josh.10" sID="Josh.10" n="י" />
+  <chapter eID="Josh.10" />
+  <chapter osisID="Josh.11" sID="Josh.11" n="יא" />
+  <chapter eID="Josh.11" />
+  <chapter osisID="Josh.12" sID="Josh.12" n="יב" />
+  <chapter eID="Josh.12" />
+  <chapter osisID="Josh.13" sID="Josh.13" n="יג" />
+  <chapter eID="Josh.13" />
+  <chapter osisID="Josh.14" sID="Josh.14" n="יד" />
+  <chapter eID="Josh.14" />
+  <chapter osisID="Josh.15" sID="Josh.15" n="טו" />
+  <chapter eID="Josh.15" />
+  <chapter osisID="Josh.16" sID="Josh.16" n="טז" />
+  <chapter eID="Josh.16" />
+  <chapter osisID="Josh.17" sID="Josh.17" n="יז" />
+  <chapter eID="Josh.17" />
+  <chapter osisID="Josh.18" sID="Josh.18" n="יח" />
+  <chapter eID="Josh.18" />
+  <chapter osisID="Josh.19" sID="Josh.19" n="יט" />
+  <chapter eID="Josh.19" />
+  <chapter osisID="Josh.20" sID="Josh.20" n="כ" />
+  <chapter eID="Josh.20" />
+  <chapter osisID="Josh.21" sID="Josh.21" n="כא" />
+  <chapter eID="Josh.21" />
+  <chapter osisID="Josh.22" sID="Josh.22" n="כב" />
+  <chapter eID="Josh.22" />
+  <chapter osisID="Josh.23" sID="Josh.23" n="כג" />
+  <chapter eID="Josh.23" />
+  <chapter osisID="Josh.24" sID="Josh.24" n="כד" />
+  <chapter eID="Josh.24" />
 </div>

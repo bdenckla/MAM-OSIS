@@ -1,37 +1,71 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" type="book" osisID="Deut">
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
+  <chapter osisID="Deut.1" sID="Deut.1" n="א" />
+  <chapter eID="Deut.1" />
+  <chapter osisID="Deut.2" sID="Deut.2" n="ב" />
+  <chapter eID="Deut.2" />
+  <chapter osisID="Deut.3" sID="Deut.3" n="ג" />
+  <chapter eID="Deut.3" />
+  <chapter osisID="Deut.4" sID="Deut.4" n="ד" />
+  <chapter eID="Deut.4" />
+  <chapter osisID="Deut.5" sID="Deut.5" n="ה" />
+  <chapter eID="Deut.5" />
+  <chapter osisID="Deut.6" sID="Deut.6" n="ו" />
+  <chapter eID="Deut.6" />
+  <chapter osisID="Deut.7" sID="Deut.7" n="ז" />
+  <chapter eID="Deut.7" />
+  <chapter osisID="Deut.8" sID="Deut.8" n="ח" />
+  <chapter eID="Deut.8" />
+  <chapter osisID="Deut.9" sID="Deut.9" n="ט" />
+  <chapter eID="Deut.9" />
+  <chapter osisID="Deut.10" sID="Deut.10" n="י" />
+  <chapter eID="Deut.10" />
+  <chapter osisID="Deut.11" sID="Deut.11" n="יא" />
+  <chapter eID="Deut.11" />
+  <chapter osisID="Deut.12" sID="Deut.12" n="יב" />
+  <chapter eID="Deut.12" />
+  <chapter osisID="Deut.13" sID="Deut.13" n="יג" />
+  <chapter eID="Deut.13" />
+  <chapter osisID="Deut.14" sID="Deut.14" n="יד" />
+  <chapter eID="Deut.14" />
+  <chapter osisID="Deut.15" sID="Deut.15" n="טו" />
+  <chapter eID="Deut.15" />
+  <chapter osisID="Deut.16" sID="Deut.16" n="טז" />
+  <chapter eID="Deut.16" />
+  <chapter osisID="Deut.17" sID="Deut.17" n="יז" />
+  <chapter eID="Deut.17" />
+  <chapter osisID="Deut.18" sID="Deut.18" n="יח" />
+  <chapter eID="Deut.18" />
+  <chapter osisID="Deut.19" sID="Deut.19" n="יט" />
+  <chapter eID="Deut.19" />
+  <chapter osisID="Deut.20" sID="Deut.20" n="כ" />
+  <chapter eID="Deut.20" />
+  <chapter osisID="Deut.21" sID="Deut.21" n="כא" />
+  <chapter eID="Deut.21" />
+  <chapter osisID="Deut.22" sID="Deut.22" n="כב" />
+  <chapter eID="Deut.22" />
+  <chapter osisID="Deut.23" sID="Deut.23" n="כג" />
+  <chapter eID="Deut.23" />
+  <chapter osisID="Deut.24" sID="Deut.24" n="כד" />
+  <chapter eID="Deut.24" />
+  <chapter osisID="Deut.25" sID="Deut.25" n="כה" />
+  <chapter eID="Deut.25" />
+  <chapter osisID="Deut.26" sID="Deut.26" n="כו" />
+  <chapter eID="Deut.26" />
+  <chapter osisID="Deut.27" sID="Deut.27" n="כז" />
+  <chapter eID="Deut.27" />
+  <chapter osisID="Deut.28" sID="Deut.28" n="כח" />
+  <chapter eID="Deut.28" />
+  <chapter osisID="Deut.29" sID="Deut.29" n="כט" />
+  <chapter eID="Deut.29" />
+  <chapter osisID="Deut.30" sID="Deut.30" n="ל" />
+  <chapter eID="Deut.30" />
+  <chapter osisID="Deut.31" sID="Deut.31" n="לא" />
+  <chapter eID="Deut.31" />
+  <chapter osisID="Deut.32" sID="Deut.32" n="לב" />
+  <chapter eID="Deut.32" />
+  <chapter osisID="Deut.33" sID="Deut.33" n="לג" />
+  <chapter eID="Deut.33" />
+  <chapter osisID="Deut.34" sID="Deut.34" n="לד" />
+  <chapter eID="Deut.34" />
 </div>

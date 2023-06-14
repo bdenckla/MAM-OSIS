@@ -1,53 +1,103 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" type="book" osisID="Gen">
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
+  <chapter osisID="Gen.1" sID="Gen.1" n="א" />
+  <chapter eID="Gen.1" />
+  <chapter osisID="Gen.2" sID="Gen.2" n="ב" />
+  <chapter eID="Gen.2" />
+  <chapter osisID="Gen.3" sID="Gen.3" n="ג" />
+  <chapter eID="Gen.3" />
+  <chapter osisID="Gen.4" sID="Gen.4" n="ד" />
+  <chapter eID="Gen.4" />
+  <chapter osisID="Gen.5" sID="Gen.5" n="ה" />
+  <chapter eID="Gen.5" />
+  <chapter osisID="Gen.6" sID="Gen.6" n="ו" />
+  <chapter eID="Gen.6" />
+  <chapter osisID="Gen.7" sID="Gen.7" n="ז" />
+  <chapter eID="Gen.7" />
+  <chapter osisID="Gen.8" sID="Gen.8" n="ח" />
+  <chapter eID="Gen.8" />
+  <chapter osisID="Gen.9" sID="Gen.9" n="ט" />
+  <chapter eID="Gen.9" />
+  <chapter osisID="Gen.10" sID="Gen.10" n="י" />
+  <chapter eID="Gen.10" />
+  <chapter osisID="Gen.11" sID="Gen.11" n="יא" />
+  <chapter eID="Gen.11" />
+  <chapter osisID="Gen.12" sID="Gen.12" n="יב" />
+  <chapter eID="Gen.12" />
+  <chapter osisID="Gen.13" sID="Gen.13" n="יג" />
+  <chapter eID="Gen.13" />
+  <chapter osisID="Gen.14" sID="Gen.14" n="יד" />
+  <chapter eID="Gen.14" />
+  <chapter osisID="Gen.15" sID="Gen.15" n="טו" />
+  <chapter eID="Gen.15" />
+  <chapter osisID="Gen.16" sID="Gen.16" n="טז" />
+  <chapter eID="Gen.16" />
+  <chapter osisID="Gen.17" sID="Gen.17" n="יז" />
+  <chapter eID="Gen.17" />
+  <chapter osisID="Gen.18" sID="Gen.18" n="יח" />
+  <chapter eID="Gen.18" />
+  <chapter osisID="Gen.19" sID="Gen.19" n="יט" />
+  <chapter eID="Gen.19" />
+  <chapter osisID="Gen.20" sID="Gen.20" n="כ" />
+  <chapter eID="Gen.20" />
+  <chapter osisID="Gen.21" sID="Gen.21" n="כא" />
+  <chapter eID="Gen.21" />
+  <chapter osisID="Gen.22" sID="Gen.22" n="כב" />
+  <chapter eID="Gen.22" />
+  <chapter osisID="Gen.23" sID="Gen.23" n="כג" />
+  <chapter eID="Gen.23" />
+  <chapter osisID="Gen.24" sID="Gen.24" n="כד" />
+  <chapter eID="Gen.24" />
+  <chapter osisID="Gen.25" sID="Gen.25" n="כה" />
+  <chapter eID="Gen.25" />
+  <chapter osisID="Gen.26" sID="Gen.26" n="כו" />
+  <chapter eID="Gen.26" />
+  <chapter osisID="Gen.27" sID="Gen.27" n="כז" />
+  <chapter eID="Gen.27" />
+  <chapter osisID="Gen.28" sID="Gen.28" n="כח" />
+  <chapter eID="Gen.28" />
+  <chapter osisID="Gen.29" sID="Gen.29" n="כט" />
+  <chapter eID="Gen.29" />
+  <chapter osisID="Gen.30" sID="Gen.30" n="ל" />
+  <chapter eID="Gen.30" />
+  <chapter osisID="Gen.31" sID="Gen.31" n="לא" />
+  <chapter eID="Gen.31" />
+  <chapter osisID="Gen.32" sID="Gen.32" n="לב" />
+  <chapter eID="Gen.32" />
+  <chapter osisID="Gen.33" sID="Gen.33" n="לג" />
+  <chapter eID="Gen.33" />
+  <chapter osisID="Gen.34" sID="Gen.34" n="לד" />
+  <chapter eID="Gen.34" />
+  <chapter osisID="Gen.35" sID="Gen.35" n="לה" />
+  <chapter eID="Gen.35" />
+  <chapter osisID="Gen.36" sID="Gen.36" n="לו" />
+  <chapter eID="Gen.36" />
+  <chapter osisID="Gen.37" sID="Gen.37" n="לז" />
+  <chapter eID="Gen.37" />
+  <chapter osisID="Gen.38" sID="Gen.38" n="לח" />
+  <chapter eID="Gen.38" />
+  <chapter osisID="Gen.39" sID="Gen.39" n="לט" />
+  <chapter eID="Gen.39" />
+  <chapter osisID="Gen.40" sID="Gen.40" n="מ" />
+  <chapter eID="Gen.40" />
+  <chapter osisID="Gen.41" sID="Gen.41" n="מא" />
+  <chapter eID="Gen.41" />
+  <chapter osisID="Gen.42" sID="Gen.42" n="מב" />
+  <chapter eID="Gen.42" />
+  <chapter osisID="Gen.43" sID="Gen.43" n="מג" />
+  <chapter eID="Gen.43" />
+  <chapter osisID="Gen.44" sID="Gen.44" n="מד" />
+  <chapter eID="Gen.44" />
+  <chapter osisID="Gen.45" sID="Gen.45" n="מה" />
+  <chapter eID="Gen.45" />
+  <chapter osisID="Gen.46" sID="Gen.46" n="מו" />
+  <chapter eID="Gen.46" />
+  <chapter osisID="Gen.47" sID="Gen.47" n="מז" />
+  <chapter eID="Gen.47" />
+  <chapter osisID="Gen.48" sID="Gen.48" n="מח" />
+  <chapter eID="Gen.48" />
+  <chapter osisID="Gen.49" sID="Gen.49" n="מט" />
+  <chapter eID="Gen.49" />
+  <chapter osisID="Gen.50" sID="Gen.50" n="נ" />
+  <chapter eID="Gen.50" />
 </div>

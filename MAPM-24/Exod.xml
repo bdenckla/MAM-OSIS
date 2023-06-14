@@ -1,43 +1,83 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" type="book" osisID="Exod">
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
+  <chapter osisID="Exod.1" sID="Exod.1" n="א" />
+  <chapter eID="Exod.1" />
+  <chapter osisID="Exod.2" sID="Exod.2" n="ב" />
+  <chapter eID="Exod.2" />
+  <chapter osisID="Exod.3" sID="Exod.3" n="ג" />
+  <chapter eID="Exod.3" />
+  <chapter osisID="Exod.4" sID="Exod.4" n="ד" />
+  <chapter eID="Exod.4" />
+  <chapter osisID="Exod.5" sID="Exod.5" n="ה" />
+  <chapter eID="Exod.5" />
+  <chapter osisID="Exod.6" sID="Exod.6" n="ו" />
+  <chapter eID="Exod.6" />
+  <chapter osisID="Exod.7" sID="Exod.7" n="ז" />
+  <chapter eID="Exod.7" />
+  <chapter osisID="Exod.8" sID="Exod.8" n="ח" />
+  <chapter eID="Exod.8" />
+  <chapter osisID="Exod.9" sID="Exod.9" n="ט" />
+  <chapter eID="Exod.9" />
+  <chapter osisID="Exod.10" sID="Exod.10" n="י" />
+  <chapter eID="Exod.10" />
+  <chapter osisID="Exod.11" sID="Exod.11" n="יא" />
+  <chapter eID="Exod.11" />
+  <chapter osisID="Exod.12" sID="Exod.12" n="יב" />
+  <chapter eID="Exod.12" />
+  <chapter osisID="Exod.13" sID="Exod.13" n="יג" />
+  <chapter eID="Exod.13" />
+  <chapter osisID="Exod.14" sID="Exod.14" n="יד" />
+  <chapter eID="Exod.14" />
+  <chapter osisID="Exod.15" sID="Exod.15" n="טו" />
+  <chapter eID="Exod.15" />
+  <chapter osisID="Exod.16" sID="Exod.16" n="טז" />
+  <chapter eID="Exod.16" />
+  <chapter osisID="Exod.17" sID="Exod.17" n="יז" />
+  <chapter eID="Exod.17" />
+  <chapter osisID="Exod.18" sID="Exod.18" n="יח" />
+  <chapter eID="Exod.18" />
+  <chapter osisID="Exod.19" sID="Exod.19" n="יט" />
+  <chapter eID="Exod.19" />
+  <chapter osisID="Exod.20" sID="Exod.20" n="כ" />
+  <chapter eID="Exod.20" />
+  <chapter osisID="Exod.21" sID="Exod.21" n="כא" />
+  <chapter eID="Exod.21" />
+  <chapter osisID="Exod.22" sID="Exod.22" n="כב" />
+  <chapter eID="Exod.22" />
+  <chapter osisID="Exod.23" sID="Exod.23" n="כג" />
+  <chapter eID="Exod.23" />
+  <chapter osisID="Exod.24" sID="Exod.24" n="כד" />
+  <chapter eID="Exod.24" />
+  <chapter osisID="Exod.25" sID="Exod.25" n="כה" />
+  <chapter eID="Exod.25" />
+  <chapter osisID="Exod.26" sID="Exod.26" n="כו" />
+  <chapter eID="Exod.26" />
+  <chapter osisID="Exod.27" sID="Exod.27" n="כז" />
+  <chapter eID="Exod.27" />
+  <chapter osisID="Exod.28" sID="Exod.28" n="כח" />
+  <chapter eID="Exod.28" />
+  <chapter osisID="Exod.29" sID="Exod.29" n="כט" />
+  <chapter eID="Exod.29" />
+  <chapter osisID="Exod.30" sID="Exod.30" n="ל" />
+  <chapter eID="Exod.30" />
+  <chapter osisID="Exod.31" sID="Exod.31" n="לא" />
+  <chapter eID="Exod.31" />
+  <chapter osisID="Exod.32" sID="Exod.32" n="לב" />
+  <chapter eID="Exod.32" />
+  <chapter osisID="Exod.33" sID="Exod.33" n="לג" />
+  <chapter eID="Exod.33" />
+  <chapter osisID="Exod.34" sID="Exod.34" n="לד" />
+  <chapter eID="Exod.34" />
+  <chapter osisID="Exod.35" sID="Exod.35" n="לה" />
+  <chapter eID="Exod.35" />
+  <chapter osisID="Exod.36" sID="Exod.36" n="לו" />
+  <chapter eID="Exod.36" />
+  <chapter osisID="Exod.37" sID="Exod.37" n="לז" />
+  <chapter eID="Exod.37" />
+  <chapter osisID="Exod.38" sID="Exod.38" n="לח" />
+  <chapter eID="Exod.38" />
+  <chapter osisID="Exod.39" sID="Exod.39" n="לט" />
+  <chapter eID="Exod.39" />
+  <chapter osisID="Exod.40" sID="Exod.40" n="מ" />
+  <chapter eID="Exod.40" />
 </div>

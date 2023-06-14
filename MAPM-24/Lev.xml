@@ -1,30 +1,57 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" type="book" osisID="Lev">
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
+  <chapter osisID="Lev.1" sID="Lev.1" n="א" />
+  <chapter eID="Lev.1" />
+  <chapter osisID="Lev.2" sID="Lev.2" n="ב" />
+  <chapter eID="Lev.2" />
+  <chapter osisID="Lev.3" sID="Lev.3" n="ג" />
+  <chapter eID="Lev.3" />
+  <chapter osisID="Lev.4" sID="Lev.4" n="ד" />
+  <chapter eID="Lev.4" />
+  <chapter osisID="Lev.5" sID="Lev.5" n="ה" />
+  <chapter eID="Lev.5" />
+  <chapter osisID="Lev.6" sID="Lev.6" n="ו" />
+  <chapter eID="Lev.6" />
+  <chapter osisID="Lev.7" sID="Lev.7" n="ז" />
+  <chapter eID="Lev.7" />
+  <chapter osisID="Lev.8" sID="Lev.8" n="ח" />
+  <chapter eID="Lev.8" />
+  <chapter osisID="Lev.9" sID="Lev.9" n="ט" />
+  <chapter eID="Lev.9" />
+  <chapter osisID="Lev.10" sID="Lev.10" n="י" />
+  <chapter eID="Lev.10" />
+  <chapter osisID="Lev.11" sID="Lev.11" n="יא" />
+  <chapter eID="Lev.11" />
+  <chapter osisID="Lev.12" sID="Lev.12" n="יב" />
+  <chapter eID="Lev.12" />
+  <chapter osisID="Lev.13" sID="Lev.13" n="יג" />
+  <chapter eID="Lev.13" />
+  <chapter osisID="Lev.14" sID="Lev.14" n="יד" />
+  <chapter eID="Lev.14" />
+  <chapter osisID="Lev.15" sID="Lev.15" n="טו" />
+  <chapter eID="Lev.15" />
+  <chapter osisID="Lev.16" sID="Lev.16" n="טז" />
+  <chapter eID="Lev.16" />
+  <chapter osisID="Lev.17" sID="Lev.17" n="יז" />
+  <chapter eID="Lev.17" />
+  <chapter osisID="Lev.18" sID="Lev.18" n="יח" />
+  <chapter eID="Lev.18" />
+  <chapter osisID="Lev.19" sID="Lev.19" n="יט" />
+  <chapter eID="Lev.19" />
+  <chapter osisID="Lev.20" sID="Lev.20" n="כ" />
+  <chapter eID="Lev.20" />
+  <chapter osisID="Lev.21" sID="Lev.21" n="כא" />
+  <chapter eID="Lev.21" />
+  <chapter osisID="Lev.22" sID="Lev.22" n="כב" />
+  <chapter eID="Lev.22" />
+  <chapter osisID="Lev.23" sID="Lev.23" n="כג" />
+  <chapter eID="Lev.23" />
+  <chapter osisID="Lev.24" sID="Lev.24" n="כד" />
+  <chapter eID="Lev.24" />
+  <chapter osisID="Lev.25" sID="Lev.25" n="כה" />
+  <chapter eID="Lev.25" />
+  <chapter osisID="Lev.26" sID="Lev.26" n="כו" />
+  <chapter eID="Lev.26" />
+  <chapter osisID="Lev.27" sID="Lev.27" n="כז" />
+  <chapter eID="Lev.27" />
 </div>

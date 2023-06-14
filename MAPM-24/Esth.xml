@@ -1,13 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" type="book" osisID="Esth">
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
+  <chapter osisID="Esth.1" sID="Esth.1" n="א" />
+  <chapter eID="Esth.1" />
+  <chapter osisID="Esth.2" sID="Esth.2" n="ב" />
+  <chapter eID="Esth.2" />
+  <chapter osisID="Esth.3" sID="Esth.3" n="ג" />
+  <chapter eID="Esth.3" />
+  <chapter osisID="Esth.4" sID="Esth.4" n="ד" />
+  <chapter eID="Esth.4" />
+  <chapter osisID="Esth.5" sID="Esth.5" n="ה" />
+  <chapter eID="Esth.5" />
+  <chapter osisID="Esth.6" sID="Esth.6" n="ו" />
+  <chapter eID="Esth.6" />
+  <chapter osisID="Esth.7" sID="Esth.7" n="ז" />
+  <chapter eID="Esth.7" />
+  <chapter osisID="Esth.8" sID="Esth.8" n="ח" />
+  <chapter eID="Esth.8" />
+  <chapter osisID="Esth.9" sID="Esth.9" n="ט" />
+  <chapter eID="Esth.9" />
+  <chapter osisID="Esth.10" sID="Esth.10" n="י" />
+  <chapter eID="Esth.10" />
 </div>

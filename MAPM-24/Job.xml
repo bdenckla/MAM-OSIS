@@ -1,45 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" type="book" osisID="Job">
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
+  <chapter osisID="Job.1" sID="Job.1" n="א" />
+  <chapter eID="Job.1" />
+  <chapter osisID="Job.2" sID="Job.2" n="ב" />
+  <chapter eID="Job.2" />
+  <chapter osisID="Job.3" sID="Job.3" n="ג" />
+  <chapter eID="Job.3" />
+  <chapter osisID="Job.4" sID="Job.4" n="ד" />
+  <chapter eID="Job.4" />
+  <chapter osisID="Job.5" sID="Job.5" n="ה" />
+  <chapter eID="Job.5" />
+  <chapter osisID="Job.6" sID="Job.6" n="ו" />
+  <chapter eID="Job.6" />
+  <chapter osisID="Job.7" sID="Job.7" n="ז" />
+  <chapter eID="Job.7" />
+  <chapter osisID="Job.8" sID="Job.8" n="ח" />
+  <chapter eID="Job.8" />
+  <chapter osisID="Job.9" sID="Job.9" n="ט" />
+  <chapter eID="Job.9" />
+  <chapter osisID="Job.10" sID="Job.10" n="י" />
+  <chapter eID="Job.10" />
+  <chapter osisID="Job.11" sID="Job.11" n="יא" />
+  <chapter eID="Job.11" />
+  <chapter osisID="Job.12" sID="Job.12" n="יב" />
+  <chapter eID="Job.12" />
+  <chapter osisID="Job.13" sID="Job.13" n="יג" />
+  <chapter eID="Job.13" />
+  <chapter osisID="Job.14" sID="Job.14" n="יד" />
+  <chapter eID="Job.14" />
+  <chapter osisID="Job.15" sID="Job.15" n="טו" />
+  <chapter eID="Job.15" />
+  <chapter osisID="Job.16" sID="Job.16" n="טז" />
+  <chapter eID="Job.16" />
+  <chapter osisID="Job.17" sID="Job.17" n="יז" />
+  <chapter eID="Job.17" />
+  <chapter osisID="Job.18" sID="Job.18" n="יח" />
+  <chapter eID="Job.18" />
+  <chapter osisID="Job.19" sID="Job.19" n="יט" />
+  <chapter eID="Job.19" />
+  <chapter osisID="Job.20" sID="Job.20" n="כ" />
+  <chapter eID="Job.20" />
+  <chapter osisID="Job.21" sID="Job.21" n="כא" />
+  <chapter eID="Job.21" />
+  <chapter osisID="Job.22" sID="Job.22" n="כב" />
+  <chapter eID="Job.22" />
+  <chapter osisID="Job.23" sID="Job.23" n="כג" />
+  <chapter eID="Job.23" />
+  <chapter osisID="Job.24" sID="Job.24" n="כד" />
+  <chapter eID="Job.24" />
+  <chapter osisID="Job.25" sID="Job.25" n="כה" />
+  <chapter eID="Job.25" />
+  <chapter osisID="Job.26" sID="Job.26" n="כו" />
+  <chapter eID="Job.26" />
+  <chapter osisID="Job.27" sID="Job.27" n="כז" />
+  <chapter eID="Job.27" />
+  <chapter osisID="Job.28" sID="Job.28" n="כח" />
+  <chapter eID="Job.28" />
+  <chapter osisID="Job.29" sID="Job.29" n="כט" />
+  <chapter eID="Job.29" />
+  <chapter osisID="Job.30" sID="Job.30" n="ל" />
+  <chapter eID="Job.30" />
+  <chapter osisID="Job.31" sID="Job.31" n="לא" />
+  <chapter eID="Job.31" />
+  <chapter osisID="Job.32" sID="Job.32" n="לב" />
+  <chapter eID="Job.32" />
+  <chapter osisID="Job.33" sID="Job.33" n="לג" />
+  <chapter eID="Job.33" />
+  <chapter osisID="Job.34" sID="Job.34" n="לד" />
+  <chapter eID="Job.34" />
+  <chapter osisID="Job.35" sID="Job.35" n="לה" />
+  <chapter eID="Job.35" />
+  <chapter osisID="Job.36" sID="Job.36" n="לו" />
+  <chapter eID="Job.36" />
+  <chapter osisID="Job.37" sID="Job.37" n="לז" />
+  <chapter eID="Job.37" />
+  <chapter osisID="Job.38" sID="Job.38" n="לח" />
+  <chapter eID="Job.38" />
+  <chapter osisID="Job.39" sID="Job.39" n="לט" />
+  <chapter eID="Job.39" />
+  <chapter osisID="Job.40" sID="Job.40" n="מ" />
+  <chapter eID="Job.40" />
+  <chapter osisID="Job.41" sID="Job.41" n="מא" />
+  <chapter eID="Job.41" />
+  <chapter osisID="Job.42" sID="Job.42" n="מב" />
+  <chapter eID="Job.42" />
 </div>

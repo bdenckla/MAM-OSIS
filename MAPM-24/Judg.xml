@@ -1,24 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" type="book" osisID="Judg">
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
+  <chapter osisID="Judg.1" sID="Judg.1" n="א" />
+  <chapter eID="Judg.1" />
+  <chapter osisID="Judg.2" sID="Judg.2" n="ב" />
+  <chapter eID="Judg.2" />
+  <chapter osisID="Judg.3" sID="Judg.3" n="ג" />
+  <chapter eID="Judg.3" />
+  <chapter osisID="Judg.4" sID="Judg.4" n="ד" />
+  <chapter eID="Judg.4" />
+  <chapter osisID="Judg.5" sID="Judg.5" n="ה" />
+  <chapter eID="Judg.5" />
+  <chapter osisID="Judg.6" sID="Judg.6" n="ו" />
+  <chapter eID="Judg.6" />
+  <chapter osisID="Judg.7" sID="Judg.7" n="ז" />
+  <chapter eID="Judg.7" />
+  <chapter osisID="Judg.8" sID="Judg.8" n="ח" />
+  <chapter eID="Judg.8" />
+  <chapter osisID="Judg.9" sID="Judg.9" n="ט" />
+  <chapter eID="Judg.9" />
+  <chapter osisID="Judg.10" sID="Judg.10" n="י" />
+  <chapter eID="Judg.10" />
+  <chapter osisID="Judg.11" sID="Judg.11" n="יא" />
+  <chapter eID="Judg.11" />
+  <chapter osisID="Judg.12" sID="Judg.12" n="יב" />
+  <chapter eID="Judg.12" />
+  <chapter osisID="Judg.13" sID="Judg.13" n="יג" />
+  <chapter eID="Judg.13" />
+  <chapter osisID="Judg.14" sID="Judg.14" n="יד" />
+  <chapter eID="Judg.14" />
+  <chapter osisID="Judg.15" sID="Judg.15" n="טו" />
+  <chapter eID="Judg.15" />
+  <chapter osisID="Judg.16" sID="Judg.16" n="טז" />
+  <chapter eID="Judg.16" />
+  <chapter osisID="Judg.17" sID="Judg.17" n="יז" />
+  <chapter eID="Judg.17" />
+  <chapter osisID="Judg.18" sID="Judg.18" n="יח" />
+  <chapter eID="Judg.18" />
+  <chapter osisID="Judg.19" sID="Judg.19" n="יט" />
+  <chapter eID="Judg.19" />
+  <chapter osisID="Judg.20" sID="Judg.20" n="כ" />
+  <chapter eID="Judg.20" />
+  <chapter osisID="Judg.21" sID="Judg.21" n="כא" />
+  <chapter eID="Judg.21" />
 </div>

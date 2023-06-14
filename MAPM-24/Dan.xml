@@ -1,15 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" type="book" osisID="Dan">
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
-  <chapter />
+  <chapter osisID="Dan.1" sID="Dan.1" n="א" />
+  <chapter eID="Dan.1" />
+  <chapter osisID="Dan.2" sID="Dan.2" n="ב" />
+  <chapter eID="Dan.2" />
+  <chapter osisID="Dan.3" sID="Dan.3" n="ג" />
+  <chapter eID="Dan.3" />
+  <chapter osisID="Dan.4" sID="Dan.4" n="ד" />
+  <chapter eID="Dan.4" />
+  <chapter osisID="Dan.5" sID="Dan.5" n="ה" />
+  <chapter eID="Dan.5" />
+  <chapter osisID="Dan.6" sID="Dan.6" n="ו" />
+  <chapter eID="Dan.6" />
+  <chapter osisID="Dan.7" sID="Dan.7" n="ז" />
+  <chapter eID="Dan.7" />
+  <chapter osisID="Dan.8" sID="Dan.8" n="ח" />
+  <chapter eID="Dan.8" />
+  <chapter osisID="Dan.9" sID="Dan.9" n="ט" />
+  <chapter eID="Dan.9" />
+  <chapter osisID="Dan.10" sID="Dan.10" n="י" />
+  <chapter eID="Dan.10" />
+  <chapter osisID="Dan.11" sID="Dan.11" n="יא" />
+  <chapter eID="Dan.11" />
+  <chapter osisID="Dan.12" sID="Dan.12" n="יב" />
+  <chapter eID="Dan.12" />
 </div>

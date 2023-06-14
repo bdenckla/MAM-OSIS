@@ -1,30 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" type="bookGroup" scope="Ezra-Neh">
   <div type="book" osisID="Ezra">
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
+    <chapter osisID="Ezra.1" sID="Ezra.1" n="א" />
+    <chapter eID="Ezra.1" />
+    <chapter osisID="Ezra.2" sID="Ezra.2" n="ב" />
+    <chapter eID="Ezra.2" />
+    <chapter osisID="Ezra.3" sID="Ezra.3" n="ג" />
+    <chapter eID="Ezra.3" />
+    <chapter osisID="Ezra.4" sID="Ezra.4" n="ד" />
+    <chapter eID="Ezra.4" />
+    <chapter osisID="Ezra.5" sID="Ezra.5" n="ה" />
+    <chapter eID="Ezra.5" />
+    <chapter osisID="Ezra.6" sID="Ezra.6" n="ו" />
+    <chapter eID="Ezra.6" />
+    <chapter osisID="Ezra.7" sID="Ezra.7" n="ז" />
+    <chapter eID="Ezra.7" />
+    <chapter osisID="Ezra.8" sID="Ezra.8" n="ח" />
+    <chapter eID="Ezra.8" />
+    <chapter osisID="Ezra.9" sID="Ezra.9" n="ט" />
+    <chapter eID="Ezra.9" />
+    <chapter osisID="Ezra.10" sID="Ezra.10" n="י" />
+    <chapter eID="Ezra.10" />
   </div>
   <div type="book" osisID="Neh">
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
+    <chapter osisID="Neh.1" sID="Neh.1" n="א" />
+    <chapter eID="Neh.1" />
+    <chapter osisID="Neh.2" sID="Neh.2" n="ב" />
+    <chapter eID="Neh.2" />
+    <chapter osisID="Neh.3" sID="Neh.3" n="ג" />
+    <chapter eID="Neh.3" />
+    <chapter osisID="Neh.4" sID="Neh.4" n="ד" />
+    <chapter eID="Neh.4" />
+    <chapter osisID="Neh.5" sID="Neh.5" n="ה" />
+    <chapter eID="Neh.5" />
+    <chapter osisID="Neh.6" sID="Neh.6" n="ו" />
+    <chapter eID="Neh.6" />
+    <chapter osisID="Neh.7" sID="Neh.7" n="ז" />
+    <chapter eID="Neh.7" />
+    <chapter osisID="Neh.8" sID="Neh.8" n="ח" />
+    <chapter eID="Neh.8" />
+    <chapter osisID="Neh.9" sID="Neh.9" n="ט" />
+    <chapter eID="Neh.9" />
+    <chapter osisID="Neh.10" sID="Neh.10" n="י" />
+    <chapter eID="Neh.10" />
+    <chapter osisID="Neh.11" sID="Neh.11" n="יא" />
+    <chapter eID="Neh.11" />
+    <chapter osisID="Neh.12" sID="Neh.12" n="יב" />
+    <chapter eID="Neh.12" />
+    <chapter osisID="Neh.13" sID="Neh.13" n="יג" />
+    <chapter eID="Neh.13" />
   </div>
 </div>

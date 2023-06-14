@@ -1,72 +1,137 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" type="bookGroup" scope="1Chr-2Chr">
   <div type="book" osisID="1Chr">
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
+    <chapter osisID="1Chr.1" sID="1Chr.1" n="א" />
+    <chapter eID="1Chr.1" />
+    <chapter osisID="1Chr.2" sID="1Chr.2" n="ב" />
+    <chapter eID="1Chr.2" />
+    <chapter osisID="1Chr.3" sID="1Chr.3" n="ג" />
+    <chapter eID="1Chr.3" />
+    <chapter osisID="1Chr.4" sID="1Chr.4" n="ד" />
+    <chapter eID="1Chr.4" />
+    <chapter osisID="1Chr.5" sID="1Chr.5" n="ה" />
+    <chapter eID="1Chr.5" />
+    <chapter osisID="1Chr.6" sID="1Chr.6" n="ו" />
+    <chapter eID="1Chr.6" />
+    <chapter osisID="1Chr.7" sID="1Chr.7" n="ז" />
+    <chapter eID="1Chr.7" />
+    <chapter osisID="1Chr.8" sID="1Chr.8" n="ח" />
+    <chapter eID="1Chr.8" />
+    <chapter osisID="1Chr.9" sID="1Chr.9" n="ט" />
+    <chapter eID="1Chr.9" />
+    <chapter osisID="1Chr.10" sID="1Chr.10" n="י" />
+    <chapter eID="1Chr.10" />
+    <chapter osisID="1Chr.11" sID="1Chr.11" n="יא" />
+    <chapter eID="1Chr.11" />
+    <chapter osisID="1Chr.12" sID="1Chr.12" n="יב" />
+    <chapter eID="1Chr.12" />
+    <chapter osisID="1Chr.13" sID="1Chr.13" n="יג" />
+    <chapter eID="1Chr.13" />
+    <chapter osisID="1Chr.14" sID="1Chr.14" n="יד" />
+    <chapter eID="1Chr.14" />
+    <chapter osisID="1Chr.15" sID="1Chr.15" n="טו" />
+    <chapter eID="1Chr.15" />
+    <chapter osisID="1Chr.16" sID="1Chr.16" n="טז" />
+    <chapter eID="1Chr.16" />
+    <chapter osisID="1Chr.17" sID="1Chr.17" n="יז" />
+    <chapter eID="1Chr.17" />
+    <chapter osisID="1Chr.18" sID="1Chr.18" n="יח" />
+    <chapter eID="1Chr.18" />
+    <chapter osisID="1Chr.19" sID="1Chr.19" n="יט" />
+    <chapter eID="1Chr.19" />
+    <chapter osisID="1Chr.20" sID="1Chr.20" n="כ" />
+    <chapter eID="1Chr.20" />
+    <chapter osisID="1Chr.21" sID="1Chr.21" n="כא" />
+    <chapter eID="1Chr.21" />
+    <chapter osisID="1Chr.22" sID="1Chr.22" n="כב" />
+    <chapter eID="1Chr.22" />
+    <chapter osisID="1Chr.23" sID="1Chr.23" n="כג" />
+    <chapter eID="1Chr.23" />
+    <chapter osisID="1Chr.24" sID="1Chr.24" n="כד" />
+    <chapter eID="1Chr.24" />
+    <chapter osisID="1Chr.25" sID="1Chr.25" n="כה" />
+    <chapter eID="1Chr.25" />
+    <chapter osisID="1Chr.26" sID="1Chr.26" n="כו" />
+    <chapter eID="1Chr.26" />
+    <chapter osisID="1Chr.27" sID="1Chr.27" n="כז" />
+    <chapter eID="1Chr.27" />
+    <chapter osisID="1Chr.28" sID="1Chr.28" n="כח" />
+    <chapter eID="1Chr.28" />
+    <chapter osisID="1Chr.29" sID="1Chr.29" n="כט" />
+    <chapter eID="1Chr.29" />
   </div>
   <div type="book" osisID="2Chr">
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
+    <chapter osisID="2Chr.1" sID="2Chr.1" n="א" />
+    <chapter eID="2Chr.1" />
+    <chapter osisID="2Chr.2" sID="2Chr.2" n="ב" />
+    <chapter eID="2Chr.2" />
+    <chapter osisID="2Chr.3" sID="2Chr.3" n="ג" />
+    <chapter eID="2Chr.3" />
+    <chapter osisID="2Chr.4" sID="2Chr.4" n="ד" />
+    <chapter eID="2Chr.4" />
+    <chapter osisID="2Chr.5" sID="2Chr.5" n="ה" />
+    <chapter eID="2Chr.5" />
+    <chapter osisID="2Chr.6" sID="2Chr.6" n="ו" />
+    <chapter eID="2Chr.6" />
+    <chapter osisID="2Chr.7" sID="2Chr.7" n="ז" />
+    <chapter eID="2Chr.7" />
+    <chapter osisID="2Chr.8" sID="2Chr.8" n="ח" />
+    <chapter eID="2Chr.8" />
+    <chapter osisID="2Chr.9" sID="2Chr.9" n="ט" />
+    <chapter eID="2Chr.9" />
+    <chapter osisID="2Chr.10" sID="2Chr.10" n="י" />
+    <chapter eID="2Chr.10" />
+    <chapter osisID="2Chr.11" sID="2Chr.11" n="יא" />
+    <chapter eID="2Chr.11" />
+    <chapter osisID="2Chr.12" sID="2Chr.12" n="יב" />
+    <chapter eID="2Chr.12" />
+    <chapter osisID="2Chr.13" sID="2Chr.13" n="יג" />
+    <chapter eID="2Chr.13" />
+    <chapter osisID="2Chr.14" sID="2Chr.14" n="יד" />
+    <chapter eID="2Chr.14" />
+    <chapter osisID="2Chr.15" sID="2Chr.15" n="טו" />
+    <chapter eID="2Chr.15" />
+    <chapter osisID="2Chr.16" sID="2Chr.16" n="טז" />
+    <chapter eID="2Chr.16" />
+    <chapter osisID="2Chr.17" sID="2Chr.17" n="יז" />
+    <chapter eID="2Chr.17" />
+    <chapter osisID="2Chr.18" sID="2Chr.18" n="יח" />
+    <chapter eID="2Chr.18" />
+    <chapter osisID="2Chr.19" sID="2Chr.19" n="יט" />
+    <chapter eID="2Chr.19" />
+    <chapter osisID="2Chr.20" sID="2Chr.20" n="כ" />
+    <chapter eID="2Chr.20" />
+    <chapter osisID="2Chr.21" sID="2Chr.21" n="כא" />
+    <chapter eID="2Chr.21" />
+    <chapter osisID="2Chr.22" sID="2Chr.22" n="כב" />
+    <chapter eID="2Chr.22" />
+    <chapter osisID="2Chr.23" sID="2Chr.23" n="כג" />
+    <chapter eID="2Chr.23" />
+    <chapter osisID="2Chr.24" sID="2Chr.24" n="כד" />
+    <chapter eID="2Chr.24" />
+    <chapter osisID="2Chr.25" sID="2Chr.25" n="כה" />
+    <chapter eID="2Chr.25" />
+    <chapter osisID="2Chr.26" sID="2Chr.26" n="כו" />
+    <chapter eID="2Chr.26" />
+    <chapter osisID="2Chr.27" sID="2Chr.27" n="כז" />
+    <chapter eID="2Chr.27" />
+    <chapter osisID="2Chr.28" sID="2Chr.28" n="כח" />
+    <chapter eID="2Chr.28" />
+    <chapter osisID="2Chr.29" sID="2Chr.29" n="כט" />
+    <chapter eID="2Chr.29" />
+    <chapter osisID="2Chr.30" sID="2Chr.30" n="ל" />
+    <chapter eID="2Chr.30" />
+    <chapter osisID="2Chr.31" sID="2Chr.31" n="לא" />
+    <chapter eID="2Chr.31" />
+    <chapter osisID="2Chr.32" sID="2Chr.32" n="לב" />
+    <chapter eID="2Chr.32" />
+    <chapter osisID="2Chr.33" sID="2Chr.33" n="לג" />
+    <chapter eID="2Chr.33" />
+    <chapter osisID="2Chr.34" sID="2Chr.34" n="לד" />
+    <chapter eID="2Chr.34" />
+    <chapter osisID="2Chr.35" sID="2Chr.35" n="לה" />
+    <chapter eID="2Chr.35" />
+    <chapter osisID="2Chr.36" sID="2Chr.36" n="לו" />
+    <chapter eID="2Chr.36" />
   </div>
 </div>

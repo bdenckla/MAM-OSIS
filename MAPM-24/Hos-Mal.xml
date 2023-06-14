@@ -1,94 +1,161 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" type="bookGroup" scope="Hos-Mal">
   <div type="book" osisID="Hos">
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
+    <chapter osisID="Hos.1" sID="Hos.1" n="א" />
+    <chapter eID="Hos.1" />
+    <chapter osisID="Hos.2" sID="Hos.2" n="ב" />
+    <chapter eID="Hos.2" />
+    <chapter osisID="Hos.3" sID="Hos.3" n="ג" />
+    <chapter eID="Hos.3" />
+    <chapter osisID="Hos.4" sID="Hos.4" n="ד" />
+    <chapter eID="Hos.4" />
+    <chapter osisID="Hos.5" sID="Hos.5" n="ה" />
+    <chapter eID="Hos.5" />
+    <chapter osisID="Hos.6" sID="Hos.6" n="ו" />
+    <chapter eID="Hos.6" />
+    <chapter osisID="Hos.7" sID="Hos.7" n="ז" />
+    <chapter eID="Hos.7" />
+    <chapter osisID="Hos.8" sID="Hos.8" n="ח" />
+    <chapter eID="Hos.8" />
+    <chapter osisID="Hos.9" sID="Hos.9" n="ט" />
+    <chapter eID="Hos.9" />
+    <chapter osisID="Hos.10" sID="Hos.10" n="י" />
+    <chapter eID="Hos.10" />
+    <chapter osisID="Hos.11" sID="Hos.11" n="יא" />
+    <chapter eID="Hos.11" />
+    <chapter osisID="Hos.12" sID="Hos.12" n="יב" />
+    <chapter eID="Hos.12" />
+    <chapter osisID="Hos.13" sID="Hos.13" n="יג" />
+    <chapter eID="Hos.13" />
+    <chapter osisID="Hos.14" sID="Hos.14" n="יד" />
+    <chapter eID="Hos.14" />
   </div>
   <div type="book" osisID="Joel">
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
+    <chapter osisID="Joel.1" sID="Joel.1" n="א" />
+    <chapter eID="Joel.1" />
+    <chapter osisID="Joel.2" sID="Joel.2" n="ב" />
+    <chapter eID="Joel.2" />
+    <chapter osisID="Joel.3" sID="Joel.3" n="ג" />
+    <chapter eID="Joel.3" />
+    <chapter osisID="Joel.4" sID="Joel.4" n="ד" />
+    <chapter eID="Joel.4" />
   </div>
   <div type="book" osisID="Amos">
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
+    <chapter osisID="Amos.1" sID="Amos.1" n="א" />
+    <chapter eID="Amos.1" />
+    <chapter osisID="Amos.2" sID="Amos.2" n="ב" />
+    <chapter eID="Amos.2" />
+    <chapter osisID="Amos.3" sID="Amos.3" n="ג" />
+    <chapter eID="Amos.3" />
+    <chapter osisID="Amos.4" sID="Amos.4" n="ד" />
+    <chapter eID="Amos.4" />
+    <chapter osisID="Amos.5" sID="Amos.5" n="ה" />
+    <chapter eID="Amos.5" />
+    <chapter osisID="Amos.6" sID="Amos.6" n="ו" />
+    <chapter eID="Amos.6" />
+    <chapter osisID="Amos.7" sID="Amos.7" n="ז" />
+    <chapter eID="Amos.7" />
+    <chapter osisID="Amos.8" sID="Amos.8" n="ח" />
+    <chapter eID="Amos.8" />
+    <chapter osisID="Amos.9" sID="Amos.9" n="ט" />
+    <chapter eID="Amos.9" />
   </div>
   <div type="book" osisID="Obad">
-    <chapter />
+    <chapter osisID="Obad.1" sID="Obad.1" n="א" />
+    <chapter eID="Obad.1" />
   </div>
   <div type="book" osisID="Jonah">
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
+    <chapter osisID="Jonah.1" sID="Jonah.1" n="א" />
+    <chapter eID="Jonah.1" />
+    <chapter osisID="Jonah.2" sID="Jonah.2" n="ב" />
+    <chapter eID="Jonah.2" />
+    <chapter osisID="Jonah.3" sID="Jonah.3" n="ג" />
+    <chapter eID="Jonah.3" />
+    <chapter osisID="Jonah.4" sID="Jonah.4" n="ד" />
+    <chapter eID="Jonah.4" />
   </div>
   <div type="book" osisID="Mic">
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
+    <chapter osisID="Mic.1" sID="Mic.1" n="א" />
+    <chapter eID="Mic.1" />
+    <chapter osisID="Mic.2" sID="Mic.2" n="ב" />
+    <chapter eID="Mic.2" />
+    <chapter osisID="Mic.3" sID="Mic.3" n="ג" />
+    <chapter eID="Mic.3" />
+    <chapter osisID="Mic.4" sID="Mic.4" n="ד" />
+    <chapter eID="Mic.4" />
+    <chapter osisID="Mic.5" sID="Mic.5" n="ה" />
+    <chapter eID="Mic.5" />
+    <chapter osisID="Mic.6" sID="Mic.6" n="ו" />
+    <chapter eID="Mic.6" />
+    <chapter osisID="Mic.7" sID="Mic.7" n="ז" />
+    <chapter eID="Mic.7" />
   </div>
   <div type="book" osisID="Nah">
-    <chapter />
-    <chapter />
-    <chapter />
+    <chapter osisID="Nah.1" sID="Nah.1" n="א" />
+    <chapter eID="Nah.1" />
+    <chapter osisID="Nah.2" sID="Nah.2" n="ב" />
+    <chapter eID="Nah.2" />
+    <chapter osisID="Nah.3" sID="Nah.3" n="ג" />
+    <chapter eID="Nah.3" />
   </div>
   <div type="book" osisID="Hab">
-    <chapter />
-    <chapter />
-    <chapter />
+    <chapter osisID="Hab.1" sID="Hab.1" n="א" />
+    <chapter eID="Hab.1" />
+    <chapter osisID="Hab.2" sID="Hab.2" n="ב" />
+    <chapter eID="Hab.2" />
+    <chapter osisID="Hab.3" sID="Hab.3" n="ג" />
+    <chapter eID="Hab.3" />
   </div>
   <div type="book" osisID="Zeph">
-    <chapter />
-    <chapter />
-    <chapter />
+    <chapter osisID="Zeph.1" sID="Zeph.1" n="א" />
+    <chapter eID="Zeph.1" />
+    <chapter osisID="Zeph.2" sID="Zeph.2" n="ב" />
+    <chapter eID="Zeph.2" />
+    <chapter osisID="Zeph.3" sID="Zeph.3" n="ג" />
+    <chapter eID="Zeph.3" />
   </div>
   <div type="book" osisID="Hag">
-    <chapter />
-    <chapter />
+    <chapter osisID="Hag.1" sID="Hag.1" n="א" />
+    <chapter eID="Hag.1" />
+    <chapter osisID="Hag.2" sID="Hag.2" n="ב" />
+    <chapter eID="Hag.2" />
   </div>
   <div type="book" osisID="Zech">
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
-    <chapter />
+    <chapter osisID="Zech.1" sID="Zech.1" n="א" />
+    <chapter eID="Zech.1" />
+    <chapter osisID="Zech.2" sID="Zech.2" n="ב" />
+    <chapter eID="Zech.2" />
+    <chapter osisID="Zech.3" sID="Zech.3" n="ג" />
+    <chapter eID="Zech.3" />
+    <chapter osisID="Zech.4" sID="Zech.4" n="ד" />
+    <chapter eID="Zech.4" />
+    <chapter osisID="Zech.5" sID="Zech.5" n="ה" />
+    <chapter eID="Zech.5" />
+    <chapter osisID="Zech.6" sID="Zech.6" n="ו" />
+    <chapter eID="Zech.6" />
+    <chapter osisID="Zech.7" sID="Zech.7" n="ז" />
+    <chapter eID="Zech.7" />
+    <chapter osisID="Zech.8" sID="Zech.8" n="ח" />
+    <chapter eID="Zech.8" />
+    <chapter osisID="Zech.9" sID="Zech.9" n="ט" />
+    <chapter eID="Zech.9" />
+    <chapter osisID="Zech.10" sID="Zech.10" n="י" />
+    <chapter eID="Zech.10" />
+    <chapter osisID="Zech.11" sID="Zech.11" n="יא" />
+    <chapter eID="Zech.11" />
+    <chapter osisID="Zech.12" sID="Zech.12" n="יב" />
+    <chapter eID="Zech.12" />
+    <chapter osisID="Zech.13" sID="Zech.13" n="יג" />
+    <chapter eID="Zech.13" />
+    <chapter osisID="Zech.14" sID="Zech.14" n="יד" />
+    <chapter eID="Zech.14" />
   </div>
   <div type="book" osisID="Mal">
-    <chapter />
-    <chapter />
-    <chapter />
+    <chapter osisID="Mal.1" sID="Mal.1" n="א" />
+    <chapter eID="Mal.1" />
+    <chapter osisID="Mal.2" sID="Mal.2" n="ב" />
+    <chapter eID="Mal.2" />
+    <chapter osisID="Mal.3" sID="Mal.3" n="ג" />
+    <chapter eID="Mal.3" />
   </div>
 </div>
