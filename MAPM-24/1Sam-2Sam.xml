@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" type="bookGroup" scope="1Sam-2Sam">
+  <div type="book" osisID="1Sam">
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+  </div>
+  <div type="book" osisID="2Sam">
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+    <chapter />
+  </div>
+</div>
