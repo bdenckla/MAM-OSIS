@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <div xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" type="book" osisID="Prov">
   <chapter osisID="Prov.1" sID="Prov.1" n="א" />
-  <verse osisID="Prov.1.1" sID="Prov.1.1" n="א" />שְׁלֵי שְׁלֹמֹ֣ה בֶן־דָּוִ֑ד מֶ֝֗לֶךְ יִשְׂרָאֵֽל׃<verse eID="Prov.1.1" />
+  <verse osisID="Prov.1.1" sID="Prov.1.1" n="א" />
+  <seg type="x-big">מִ֭</seg>שְׁלֵי שְׁלֹמֹ֣ה בֶן־דָּוִ֑ד מֶ֝֗לֶךְ יִשְׂרָאֵֽל׃<verse eID="Prov.1.1" />
   <verse osisID="Prov.1.2" sID="Prov.1.2" n="ב" />לָדַ֣עַת חׇכְמָ֣ה וּמוּסָ֑ר לְ֝הָבִ֗ין אִמְרֵ֥י בִינָֽה׃<verse eID="Prov.1.2" />
   <verse osisID="Prov.1.3" sID="Prov.1.3" n="ג" />לָ֭קַחַת מוּסַ֣ר הַשְׂכֵּ֑ל צֶ֥דֶק וּ֝מִשְׁפָּ֗ט וּמֵשָׁרִֽים׃<verse eID="Prov.1.3" />
   <verse osisID="Prov.1.4" sID="Prov.1.4" n="ד" />לָתֵ֣ת לִפְתָאיִ֣ם עׇרְמָ֑ה לְ֝נַ֗עַר דַּ֣עַת וּמְזִמָּֽה׃<verse eID="Prov.1.4" />
