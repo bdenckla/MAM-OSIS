@@ -1,0 +1,5 @@
+In directory
+    C:\Users\BenDe\AppData\Roaming\Sword\modules\texts\ztext\mapm2
+
+issue the PowerShell command
+    & "C:\Program Files\Crosswire\xiphos\bin\osis2mod.exe" . C:\Users\BenDe\GitRepos\MAM-OSIS\MAPM-orig\MAPM.xml -v MT -z z
