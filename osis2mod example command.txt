@@ -1,3 +1,5 @@
+Copy mapm.conf to C:\Users\BenDe\AppData\Roaming\Sword\mods.d
+
 In directory
     C:\Users\BenDe\AppData\Roaming\Sword\modules\texts\ztext\mapm
 
