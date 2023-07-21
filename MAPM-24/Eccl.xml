@@ -52,17 +52,23 @@
   </chapter>
   <chapter osisID="Eccl.3">
     <verse osisID="Eccl.3.1">לַכֹּ֖ל זְמָ֑ן וְעֵ֥ת לְכׇל־חֵ֖פֶץ תַּ֥חַת הַשָּׁמָֽיִם׃</verse>
-    <lb />
-    <seg type="x-space">        </seg>
-    <verse osisID="Eccl.3.2">עֵ֥ת לָלֶ֖דֶת        וְעֵ֣ת לָמ֑וּת        עֵ֣ת לָטַ֔עַת        וְעֵ֖ת לַעֲק֥וֹר נָטֽוּעַ׃        </verse>
-    <verse osisID="Eccl.3.3">עֵ֤ת לַהֲרוֹג֙        וְעֵ֣ת לִרְפּ֔וֹא        עֵ֥ת לִפְר֖וֹץ        וְעֵ֥ת לִבְנֽוֹת׃        </verse>
-    <verse osisID="Eccl.3.4">עֵ֤ת לִבְכּוֹת֙        וְעֵ֣ת לִשְׂח֔וֹק        עֵ֥ת סְפ֖וֹד        וְעֵ֥ת רְקֽוֹד׃        </verse>
-    <verse osisID="Eccl.3.5">עֵ֚ת לְהַשְׁלִ֣יךְ אֲבָנִ֔ים        וְעֵ֖ת כְּנ֣וֹס אֲבָנִ֑ים        עֵ֣ת לַחֲב֔וֹק        וְעֵ֖ת לִרְחֹ֥ק מֵחַבֵּֽק׃        </verse>
-    <verse osisID="Eccl.3.6">עֵ֤ת לְבַקֵּשׁ֙        וְעֵ֣ת לְאַבֵּ֔ד        עֵ֥ת לִשְׁמ֖וֹר        וְעֵ֥ת לְהַשְׁלִֽיךְ׃        </verse>
-    <verse osisID="Eccl.3.7">עֵ֤ת לִקְר֙וֹעַ֙        וְעֵ֣ת לִתְפּ֔וֹר        עֵ֥ת לַחֲשׁ֖וֹת        וְעֵ֥ת לְדַבֵּֽר׃        </verse>
-    <verse osisID="Eccl.3.8">עֵ֤ת לֶֽאֱהֹב֙        וְעֵ֣ת לִשְׂנֹ֔א        עֵ֥ת מִלְחָמָ֖ה        וְעֵ֥ת שָׁלֽוֹם׃</verse>
-    <lb />
-    <seg type="x-space">        </seg>
+    <lb type="x-samekh-type-1" />
+    <seg type="x-space-samekh-type-1">        </seg>
+    <verse osisID="Eccl.3.2">עֵ֥ת לָלֶ֖דֶת<seg type="x-space-shirah-space">        </seg>וְעֵ֣ת לָמ֑וּת<seg type="x-space-shirah-space">        </seg>עֵ֣ת לָטַ֔עַת<seg type="x-space-shirah-space">        </seg>וְעֵ֖ת לַעֲק֥וֹר נָטֽוּעַ׃<seg type="x-space-shirah-space">        </seg>
+    </verse>
+    <verse osisID="Eccl.3.3">עֵ֤ת לַהֲרוֹג֙<seg type="x-space-shirah-space">        </seg>וְעֵ֣ת לִרְפּ֔וֹא<seg type="x-space-shirah-space">        </seg>עֵ֥ת לִפְר֖וֹץ<seg type="x-space-shirah-space">        </seg>וְעֵ֥ת לִבְנֽוֹת׃<seg type="x-space-shirah-space">        </seg>
+    </verse>
+    <verse osisID="Eccl.3.4">עֵ֤ת לִבְכּוֹת֙<seg type="x-space-shirah-space">        </seg>וְעֵ֣ת לִשְׂח֔וֹק<seg type="x-space-shirah-space">        </seg>עֵ֥ת סְפ֖וֹד<seg type="x-space-shirah-space">        </seg>וְעֵ֥ת רְקֽוֹד׃<seg type="x-space-shirah-space">        </seg>
+    </verse>
+    <verse osisID="Eccl.3.5">עֵ֚ת לְהַשְׁלִ֣יךְ אֲבָנִ֔ים<seg type="x-space-shirah-space">        </seg>וְעֵ֖ת כְּנ֣וֹס אֲבָנִ֑ים<seg type="x-space-shirah-space">        </seg>עֵ֣ת לַחֲב֔וֹק<seg type="x-space-shirah-space">        </seg>וְעֵ֖ת לִרְחֹ֥ק מֵחַבֵּֽק׃<seg type="x-space-shirah-space">        </seg>
+    </verse>
+    <verse osisID="Eccl.3.6">עֵ֤ת לְבַקֵּשׁ֙<seg type="x-space-shirah-space">        </seg>וְעֵ֣ת לְאַבֵּ֔ד<seg type="x-space-shirah-space">        </seg>עֵ֥ת לִשְׁמ֖וֹר<seg type="x-space-shirah-space">        </seg>וְעֵ֥ת לְהַשְׁלִֽיךְ׃<seg type="x-space-shirah-space">        </seg>
+    </verse>
+    <verse osisID="Eccl.3.7">עֵ֤ת לִקְר֙וֹעַ֙<seg type="x-space-shirah-space">        </seg>וְעֵ֣ת לִתְפּ֔וֹר<seg type="x-space-shirah-space">        </seg>עֵ֥ת לַחֲשׁ֖וֹת<seg type="x-space-shirah-space">        </seg>וְעֵ֥ת לְדַבֵּֽר׃<seg type="x-space-shirah-space">        </seg>
+    </verse>
+    <verse osisID="Eccl.3.8">עֵ֤ת לֶֽאֱהֹב֙<seg type="x-space-shirah-space">        </seg>וְעֵ֣ת לִשְׂנֹ֔א<seg type="x-space-shirah-space">        </seg>עֵ֥ת מִלְחָמָ֖ה<seg type="x-space-shirah-space">        </seg>וְעֵ֥ת שָׁלֽוֹם׃</verse>
+    <lb type="x-samekh-type-1" />
+    <seg type="x-space-samekh-type-1">        </seg>
     <verse osisID="Eccl.3.9">מַה־יִּתְרוֹן֙ הָֽעוֹשֶׂ֔ה בַּאֲשֶׁ֖ר ה֥וּא עָמֵֽל׃</verse>
     <verse osisID="Eccl.3.10">רָאִ֣יתִי אֶת־הָֽעִנְיָ֗ן אֲשֶׁ֨ר נָתַ֧ן אֱלֹהִ֛ים לִבְנֵ֥י הָאָדָ֖ם לַעֲנ֥וֹת בּֽוֹ׃</verse>
     <verse osisID="Eccl.3.11">אֶת־הַכֹּ֥ל עָשָׂ֖ה יָפֶ֣ה בְעִתּ֑וֹ גַּ֤ם אֶת־הָעֹלָם֙ נָתַ֣ן בְּלִבָּ֔ם מִבְּלִ֞י אֲשֶׁ֧ר לֹא־יִמְצָ֣א הָאָדָ֗ם אֶת־הַֽמַּעֲשֶׂ֛ה אֲשֶׁר־עָשָׂ֥ה הָאֱלֹהִ֖ים מֵרֹ֥אשׁ וְעַד־סֽוֹף׃</verse>
