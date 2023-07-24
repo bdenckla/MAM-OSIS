@@ -15,7 +15,7 @@
 		<date>2014.01.03</date>
 		<p>Begin converting Miqra according to the Mesorah content to OSIS book files.</p>
 	</revisionDesc>
-	<work osisWork="MAPM" xml:lang="he">
+	<work osisWork="MapM" xml:lang="he">
 		<title>Miqra according to the Mesorah</title>
 		<contributor role="edt">Ben Denckla</contributor>
 		<contributor role="edt">David Troidl</contributor>
