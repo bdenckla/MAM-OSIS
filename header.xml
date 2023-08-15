@@ -1,5 +1,9 @@
 <header>
 	<revisionDesc resp="bd">
+	<date>2023.08.15</date>
+	<p>Add notes on the 52 words with at least one small, large, or hung letter.</p>
+	</revisionDesc>
+	<revisionDesc resp="bd">
 		<date>2023.06.16</date>
 		<p>Generate from MAM Google Sheet sources.</p>
 	</revisionDesc>
