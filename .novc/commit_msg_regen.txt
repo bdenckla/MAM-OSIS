@@ -1,0 +1,1 @@
+Regenerate OSIS XML after upstream pipeline changes
