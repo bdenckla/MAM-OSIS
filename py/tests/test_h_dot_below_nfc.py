@@ -29,6 +29,7 @@ Root discovery uses `git rev-parse --show-toplevel` (this repo has no
 mb_cmn/paths.py). Stdlib only, so it runs under any interpreter from the repo
 dir.
 """
+
 import subprocess
 import unicodedata
 import unittest
@@ -73,9 +74,9 @@ _EXCLUDE_FILES = {
 
 # Generated-output and external-snapshot directory prefixes.
 _EXCLUDE_DIR_PREFIXES = (
-    "MAPM-24/",       # generated OSIS book XML
-    "gh-pages/",      # generated GitHub Pages output (index.html, css, png)
-    "MAPM-orig/",     # external openscriptures/morphhb snapshot
+    "MAPM-24/",  # generated OSIS book XML
+    "gh-pages/",  # generated GitHub Pages output (index.html, css, png)
+    "MAPM-orig/",  # external openscriptures/morphhb snapshot
     "MAPM-orig-24/",  # external snapshot, split into 24 books
 )
 
@@ -146,11 +147,7 @@ def _find_decomposed_latin_clusters(text):
     n = len(text)
     while i < n:
         ch = text[i]
-        if (
-            _is_latin_base(ch)
-            and i + 1 < n
-            and unicodedata.combining(text[i + 1]) != 0
-        ):
+        if _is_latin_base(ch) and i + 1 < n and unicodedata.combining(text[i + 1]) != 0:
             j = i + 1
             while (
                 j < n
@@ -283,7 +280,9 @@ class TestHDotBelowNfc(unittest.TestCase):
 
     def test_comment_detector_flags_decomposed_and_precomposed_h_dot_below(self):
         self.assertTrue(
-            self._comment_has_h_dot_below("# guttural / h" + _COMBINING_DOT_BELOW + " slot")
+            self._comment_has_h_dot_below(
+                "# guttural / h" + _COMBINING_DOT_BELOW + " slot"
+            )
         )
         self.assertTrue(
             self._comment_has_h_dot_below("# guttural / " + _H_WITH_DOT_BELOW + " slot")
@@ -300,10 +299,14 @@ class TestHDotBelowNfc(unittest.TestCase):
         # "Sere", "t" in "qetannah"); that is a different character combination
         # and must NOT be flagged by this check.
         self.assertFalse(
-            self._comment_has_h_dot_below("# Closed, S" + _COMBINING_DOT_BELOW + "ere-vowelled")
+            self._comment_has_h_dot_below(
+                "# Closed, S" + _COMBINING_DOT_BELOW + "ere-vowelled"
+            )
         )
         self.assertFalse(
-            self._comment_has_h_dot_below("# shalshelet qet" + _COMBINING_DOT_BELOW + "annah")
+            self._comment_has_h_dot_below(
+                "# shalshelet qet" + _COMBINING_DOT_BELOW + "annah"
+            )
         )
 
 
